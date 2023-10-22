@@ -1,281 +1,188 @@
 #EXTM3U
-
-#EXTINF:0,Thai PBS 3 HD
+#EXTINF:3601,Thai PBS 3 HD
 https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-
-#EXTINF:0,ALTV 4
+#EXTINF:30,ALTV 4
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
-
-#EXTINF:0,White Channel
-http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
-
-#EXTINF:0,THAI 7HD
-https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8?vhost=streaming-hwc.ch7.com
-
-#EXTINF:30,Channel8
-http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
-
-#EXTINF:35,News1
-http://news1.live14.com/stream/news1_hi.m3u8
-#EXTINF:11,https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8
-
-#EXTINF:27,CTB
-http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
-
-#EXTINF:60,Top News
-https://live.topnews.co.th/hls/topnews.m3u8
-
-#EXTINF:30,CABLE 37 HD
-http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
-
-#EXTINF:6,THAI 7HD
-https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8?vhost=streaming-hwc.ch7.com
-
-#EXTINF:29,ETV
-http://150.95.66.20:1935/live/livestream/playlist.m3u8
-
-#EXTINF:29,ETV
-http://150.95.66.20:1935/live/livestream/playlist.m3u8
-
-#EXTINF:36,CNN indonesia
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1649997259_b384000_sleng.m3u8
-
-#EXTINF:60,CGTN
-https://live.cgtn.com/1000/prog_index.m3u8
-
-#EXTINF:1800,DW Enlish
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-
-#EXTINF:1800,DW ESPA OL
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-
-#EXTINF:1800,DW DEUTSCH
-https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
-
-#EXTINF:6,Arirang
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-
-#EXTINF:30,FashionTV
-http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
-
-#EXTINF:30,Metro TV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1584163574_b1492000_sleng.m3u8
-
-#EXTINF:20,BBC World News
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-
-#EXTINF:11,https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8
-#EXTINF:66,TOP NEWS
-
-https://live.topnews.co.th/hls/topnews.m3u8
-#EXTINF:35,News1
-
-http://news1.live14.com/stream/news1_hi.m3u8
-#EXTINF:40,EBS Kids TV
-
-http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1065959876.m3u8
-#EXTINF:90,Red Bull TV
-
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:24,ONEGOLF
-
-http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-#EXTINF:30,bTV News
-
-http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
-#EXTINF:11,https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8
-
 #EXTINF:28,White Channel
 http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
-
+#EXTINF:6,THAI 7HD
+https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8?vhost=streaming-hwc.ch7.com
+#EXTINF:30,Channel8
+http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
+#EXTINF:35,News1
+http://news1.live14.com/stream/news1_hi.m3u8
+#EXTINF:11,https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8
+#EXTINF:27,CTB
+http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
+#EXTINF:60,Top News
+https://live.topnews.co.th/hls/topnews.m3u8
+#EXTINF:30,CABLE 37 HD
+http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
+#EXTINF:6,THAI 7HD
+https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8?vhost=streaming-hwc.ch7.com
+#EXTINF:29,ETV
+http://150.95.66.20:1935/live/livestream/playlist.m3u8
+#EXTINF:29,ETV
+http://150.95.66.20:1935/live/livestream/playlist.m3u8
+#EXTINF:36,CNN indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1649997259_b384000_sleng.m3u8
+#EXTINF:60,CGTN
+https://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:1800,DW Enlish
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:1800,DW ESPA OL
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:1800,DW DEUTSCH
+https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
+#EXTINF:6,Arirang
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:30,FashionTV
+http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
+#EXTINF:30,Metro TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1584163574_b1492000_sleng.m3u8
+#EXTINF:20,BBC World News
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:11,https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8
+#EXTINF:66,TOP NEWS
+https://live.topnews.co.th/hls/topnews.m3u8
+#EXTINF:35,News1
+http://news1.live14.com/stream/news1_hi.m3u8
+#EXTINF:40,EBS Kids TV
+http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1065959876.m3u8
+#EXTINF:90,Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:24,ONEGOLF
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:30,bTV News
+http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
+#EXTINF:11,https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8
+#EXTINF:28,White Channel
+http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
 #EXTINF:32,Fashion_tv
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
-
 #EXTINF:11,Hunt Channel
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
-
 #EXTINF:32,ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-
 #EXTINF:40,CHANNEL NEWS ASIA
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-
 #EXTINF:60,ALJAZEERA
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-
 #EXTINF:60,CGTN
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-
 #EXTINF:16,PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-
 #EXTINF:54,ZooMoo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-
 #EXTINF:6,Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
-
 #EXTINF:32,GOOD TV
 http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch30-2.m3u8
-
 #EXTINF:32,CH-GOOD TV1
 http://live.streamingfast.net/osmflivech1.m3u8
-
 #EXTINF:32,CH-GOOD TV2
 http://live.streamingfast.net/osmflivech2.m3u8
-
 #EXTINF:32,CH-GOOD TV6
 http://live.streamingfast.net/osmflivech6.m3u8
-
 #EXTINF:32,CH-GOOD TV7
 http://live.streamingfast.net/osmflivech7.m3u8
-
 #EXTINF:48,MBC (1080p)
 http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
-
 #EXTINF:6,CJBhttp://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 #EXTINF:60,CGTN 1 - CGTN Espa ol
-
 https://livees.cgtn.com/1000e/prog_index.m3u8?checkedby:iptvcat.com
 #EXTINF:24,Tokyo MX1
-
 https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8?checkedby:hlscat.com
 #EXTINF:24,Tokyo MX2
-
 https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8?checkedby:hlscat.com
 #EXTINF:24,Weather News
-
 https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8?checkedby:hlscat.com
 #EXTINF:24,WeatherNews
-
 http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8?checkedby:hlscat.com
 #EXTINF:24,WeatherNews-http://movie.mcas.jp/mcas/wn1_2/master.m3u8?checkedby:hlscat.com
-
 #EXTINF:100,QVC JP-KR
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
-
 #EXTINF:60,ASTV News 1 (720p)
 http://news1.live14.com/stream/news1.m3u8
-
 #EXTINF:36,Abu Dhabi Sports 1 (1080p)
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
-
 #EXTINF:36,Abu Dhabi Sports 2 (1080p)
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
-
 #EXTINF:110,ACC Network (720p)
 https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
-
 #EXTINF:16,ATG (432p)
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
-
 #EXTINF:62,Dubai Racing 3 (1080p)
 https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
-
 #EXTINF:60,Dubai Sports 2 (1080p)
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
-
 #EXTINF:60,Dubai Sports 3 (1080p)
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
-
 #EXTINF:60,EDGESport (1080p)
 https://edgesports-sportstribal.amagi.tv/playlist.m3u8
-
 #EXTINF:60,ESTV (1080p)
 https://estv-rakuten-samsung.amagi.tv/playlist.m3u8
-
 #EXTINF:60,Nimbus Playout
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
-
 #EXTINF:25,FUEL TV (720p)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6144d088516ea8000739076a/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
-
 #EXTINF:54,Glory Kickboxing (432p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8
-
 #EXTINF:59,Hard Knocks (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhardknocksfightingchampionship/CDN/playlist.m3u8
-
 #EXTINF:60,Nimbus Playout
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-
 #EXTINF:60,Lax Sports Network TV (720p)
 https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
-
 #EXTINF:120,MMA Junkie (720p)
 https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/c.m3u8
-
 #EXTINF:54,Nitro Circus (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3u8
-
 #EXTINF:24,One Golf (720p)
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-
 #EXTINF:29,Ovacion TV (720p) [Not 24/7]
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-
 #EXTINF:54,Pac 12 Insider (1080p)
 https://pac12-roku-us.amagi.tv/playlist.m3u8
-
 #EXTINF:25,Pluto TV Action Sports (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db867744f229f0009266784/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5db867744f229f0009266784&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=759&terminate=false&userId=
-
 #EXTINF:104,Pluto TV CBS Sports HQ (1080p)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
-
 #EXTINF:25,Pluto TV Fight (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9bda9fd87eb3a2717cce0/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ad9bda9fd87eb3a2717cce0&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=5c2fb668-242f-4e7f-a025-087099fd0aca&terminate=false&userId=
-
 #EXTINF:21,Pluto TV FOX Sports (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5a74b8e1e22a61737979c6bf&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=705&terminate=false&userId=
-
 #EXTINF:24,Pluto TV Glory Kickboxing (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9be1be738977e2c312134/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ad9be1be738977e2c312134&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=f6e88030-d7c8-47c8-8fed-7e24dd0a038a&terminate=false&userId=
-
 #EXTINF:25,Pluto TV IMPACT Wrestling (720p) [Not 24/7]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/59b722526996084038c01e1b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
 #EXTINF:25,Pluto TV MLB (240p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
 #EXTINF:25,Pluto TV PGA TOUR (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5de94dacb394a300099fa22a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=713&terminate=false&userId=
-
 #EXTINF:25,Pluto TV Pluto Action Sports (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5be1be871843b56328bc3ef1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5be1be871843b56328bc3ef1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=8a1b4593-8596-4ff8-8720-2c3271ea36ca&terminate=false&userId=
-
 #EXTINF:25,Pluto TV SPORT : BeIN Sports Xtra (720p) [Not 24/7]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.44&includeExtendedEvents=false&serverSideAds=tr&sid=855d6801-c912-428d-b620-ede4dd0c3b15&userId=
-
 #EXTINF:25,Pluto TV Yoga (720p)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60803e541a829e0008e91641/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fbb570-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ca55bef6-f2a6-488a-be5d-c7ba24d93cdd
-
 #EXTINF:12,Sharjah Sports TV (1080p)
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-
 #EXTINF:126,Ski TV (1080p) [Not 24/7]
 https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-Zee/193.m3u8
-
 #EXTINF:120,Sportskool TV (720p)
 https://a.jsrdn.com/broadcast/fabeab4b08/+0000/c.m3u8
-
 #EXTINF:60,SSC Action Waleed (1080p) [Not 24/7]
 https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index.m3u8
-
 #EXTINF:60,Stadium (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
-
 #EXTINF:60,Tennis Channel (720p)
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
-
 #EXTINF:21,TNT Sports 2 Brasil (720p) [Not 24/7]
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
-
 #EXTINF:21,TNT Sports 3 Brasil (240p)
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
-
 #EXTINF:20,TNT Sports 4 Brasil (720p) [Not 24/7]
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
-
 #EXTINF:60,Trace Sport Stars (Australia) (1080p)
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
