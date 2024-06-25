@@ -107,3 +107,27 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC2/index.m3u8
 #EXTINF:0,BOX FILM
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC52/index.m3u8
+
+#EXTINF:43,BBC NEWS ASIA PACIFIC
+#EXTVLCOPT:network-caching=1000
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+
+#EXTINF:12,CCTV4K
+#EXTVLCOPT:network-caching=1000
+http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8
+
+#EXTINF:32,France 24 French (1080p)
+#EXTVLCOPT:network-caching=1000
+https://ythls.armelin.one/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
+
+#EXTINF:22,НТВ Мир
+#EXTVLCOPT:network-caching=1000
+http://stream02.vnet.am/HTB/mono.m3u8
+
+#EXTINF:60,РТР Планета Евро
+#EXTVLCOPT:network-caching=1000
+https://player.smotrim.ru/iframe/stream/live_id/4941
+
+#EXTINF:60,РТР Планета Азия
+#EXTVLCOPT:network-caching=1000
+https://player.smotrim.ru/iframe/stream/live_id/63254
