@@ -124,6 +124,31 @@ http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8
 #EXTVLCOPT:network-caching=1000
 https://ythls.armelin.one/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
 
+#EXTINF:6,ARIRANG
+#EXTVLCOPT:network-caching=1000
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8?checkedby:iptvcat.com
+
+#EXTINF:60,TRACE URBAN
+#EXTVLCOPT:network-caching=1000
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:60,TRACE SPORTS
+#EXTVLCOPT:network-caching=1000
+https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:60,DUBAI SPORTS
+#EXTVLCOPT:network-caching=1000
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:90,RED BULL TV - SPORT
+#EXTVLCOPT:network-caching=1000
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8?checkedby:iptvcat.com
+
+#EXTINF:5,SPORT FRANCE
+#EXTVLCOPT:network-caching=1000
+https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8?checkedby:iptvcat.com
+
+
 #EXTINF:22,НТВ Мир
 #EXTVLCOPT:network-caching=1000
 http://stream02.vnet.am/HTB/mono.m3u8
