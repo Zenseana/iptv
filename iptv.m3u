@@ -140,7 +140,6 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8?checkedb
 #EXTVLCOPT:network-caching=1000
 https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8?checkedby:iptvcat.com
 
-
 #EXTINF:22,НТВ Мир
 #EXTVLCOPT:network-caching=1000
 http://stream02.vnet.am/HTB/mono.m3u8
