@@ -120,7 +120,7 @@ https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTVLCOPT:network-caching=1000
 http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8
 
-#EXTINF:32,France 24 French (1080p)
+#EXTINF:32,FRANCE 24
 #EXTVLCOPT:network-caching=1000
 https://ythls.armelin.one/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
 
@@ -135,3 +135,7 @@ https://player.smotrim.ru/iframe/stream/live_id/4941
 #EXTINF:60,РТР Планета Азия
 #EXTVLCOPT:network-caching=1000
 https://player.smotrim.ru/iframe/stream/live_id/63254
+
+#EXTINF:60,ALJAZEERA
+#EXTVLCOPT:network-caching=1000
+http://live-hls-web-aja.getaj.net/AJA/04.m3u8?checkedby:iptvcat.com
