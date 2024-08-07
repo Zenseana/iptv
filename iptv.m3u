@@ -30,7 +30,7 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtrue4u3/index.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0019.png",GMM25
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chgmm3/index.m3u8
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/gmm25/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0006.png",CH8
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
@@ -38,7 +38,7 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch83/index.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0016.png",MONO29
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmono293/index.m3u8
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/mono29/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0012.png",ONE HD
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
