@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:36,ช่อง TRUE PREMIER FOOTBALL HD 1 (TPF1)
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf1/playlist.m3u8
-
 #EXTINF:0,ช่อง BEIN SPORT HD 1
 #EXTVLCOPT:http-referrer=https://dooball2you.com/
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein1/playlist.m3u8
