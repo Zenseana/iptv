@@ -68,7 +68,7 @@ https://edge6a.v2h-cdn.com/gmm25/gmm25.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://n-edge-1-th.v2h-cdn.com/mvtv/mvtv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="27" ch-number="27" tvg-id="CH8.th" tvg-name="CH 8" group-title="Digital TV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/127_y_gEdBMPSmv5QUTxZC02Fj3ulVDWIw8e4N.png",ช่อง 8
+#EXTINF:-1 tvg-chno="27" ch-number="27" tvg-id="CH8.th" tvg-name="CH 8" group-title="Digital TV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/127_y_gEdBMPSmv5QUTxZC02Fj3ulVDWIw8e4N.png",8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://edge6a.v2h-cdn.com/ch8/ch8.stream/playlist.m3u8
 
@@ -172,5 +172,5 @@ https://player.smotrim.ru/iframe/stream/live_id/63254
 #EXTVLCOPT:network-caching=1000
 http://live-hls-web-aja.getaj.net/AJA/04.m3u8?checkedby:iptvcat.com
 
-#EXTINF:36,Rakuten Top Movies UK (1080p)
-https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8?checkedby:iptvcat.com
+#EXTINF:96,Sony Movie Channel (720p)
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8?checkedby:iptvcat.com
