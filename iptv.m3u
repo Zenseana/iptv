@@ -172,5 +172,5 @@ https://player.smotrim.ru/iframe/stream/live_id/63254
 #EXTVLCOPT:network-caching=1000
 http://live-hls-web-aja.getaj.net/AJA/04.m3u8?checkedby:iptvcat.com
 
-#EXTINF:96,Sony Movie Channel (720p)
+#EXTINF:96,Sony Movie Channel
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8?checkedby:iptvcat.com
