@@ -174,3 +174,6 @@ http://live-hls-web-aja.getaj.net/AJA/04.m3u8?checkedby:iptvcat.com
 
 #EXTINF:96,Sony Movie Channel
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:96,Euronews English
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/euronews_720p/playlist.m3u8?checkedby:iptvcat.com
