@@ -172,6 +172,15 @@ https://player.smotrim.ru/iframe/stream/live_id/63254
 #EXTVLCOPT:network-caching=1000
 http://live-hls-web-aja.getaj.net/AJA/04.m3u8?checkedby:iptvcat.com
 
+#EXTINF:7200,BBC Arabic
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd?checkedby:iptvcat.com
+
+#EXTINF:60,Alaraby 2 TV
+https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:60,KTV Sport
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8?checkedby:iptvcat.com
+
 #EXTINF:96,Sony Movie Channel
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8?checkedby:iptvcat.com
 
