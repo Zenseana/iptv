@@ -186,3 +186,33 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8?chec
 
 #EXTINF:96,Euronews English
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/euronews_720p/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:5400,2GB Sydney
+https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:3600,ABC Me
+https://c.mjh.nz/abc-me.m3u8?checkedby:iptvcat.com
+
+#EXTINF:3600,ABC TV Adelaide
+https://c.mjh.nz/abc-sa.m3u8?checkedby:iptvcat.com
+
+#EXTINF:3600,ABC TV Brisbane
+https://c.mjh.nz/abc-qld.m3u8?checkedby:iptvcat.com
+
+#EXTINF:3600,ABC TV Canberra
+https://c.mjh.nz/abc-act.m3u8?checkedby:iptvcat.com
+
+#EXTINF:3600,ABC TV Darwin
+https://c.mjh.nz/abc-nt.m3u8?checkedby:iptvcat.com
+
+#EXTINF:3600,ABC TV Hobart
+https://c.mjh.nz/abc-tas.m3u8?checkedby:iptvcat.com
+
+#EXTINF:39,BBC News Asia Pacific
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8?checkedby:iptvcat.com
+
+#EXTINF:26,Folk Klub
+http://tv1.intv.mk:1935/live2/folkklub/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:28,INTV Australia
+http://tv1.intv.mk:1935/live/intv/index.m3u8?checkedby:iptvcat.com
