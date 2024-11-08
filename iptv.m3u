@@ -185,33 +185,3 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8?chec
 
 #EXTINF:25,Euronews
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60492dcf1c9b6a00089f41df/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28a357-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fa72d986-0119-4efe-aab7-e87e09aafd24&checkedby:iptvcat.com
-
-#EXTINF:5400,2GB Sydney
-https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:3600,ABC Me
-https://c.mjh.nz/abc-me.m3u8?checkedby:iptvcat.com
-
-#EXTINF:3600,ABC TV Adelaide
-https://c.mjh.nz/abc-sa.m3u8?checkedby:iptvcat.com
-
-#EXTINF:3600,ABC TV Brisbane
-https://c.mjh.nz/abc-qld.m3u8?checkedby:iptvcat.com
-
-#EXTINF:3600,ABC TV Canberra
-https://c.mjh.nz/abc-act.m3u8?checkedby:iptvcat.com
-
-#EXTINF:3600,ABC TV Darwin
-https://c.mjh.nz/abc-nt.m3u8?checkedby:iptvcat.com
-
-#EXTINF:3600,ABC TV Hobart
-https://c.mjh.nz/abc-tas.m3u8?checkedby:iptvcat.com
-
-#EXTINF:39,BBC News Asia Pacific
-https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8?checkedby:iptvcat.com
-
-#EXTINF:26,Folk Klub
-http://tv1.intv.mk:1935/live2/folkklub/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:28,INTV Australia
-http://tv1.intv.mk:1935/live/intv/index.m3u8?checkedby:iptvcat.com
