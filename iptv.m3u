@@ -85,54 +85,65 @@ https://edge6a.v2h-cdn.com/cctv4/cctv4.stream/playlist.m3u8
 https://edge6a.v2h-cdn.com//boom_anime/boom_anime.stream/playlist.m3u8
 #EXTINF:594,CNN USA
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8?checkedby:iptvcat.com
 #EXTINF:43,BBC NEWS ASIA PACIFIC
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:6,ARIRANG
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8?checkedby:iptvcat.com
 #EXTINF:61,DUBAI SPORTS
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:180,RED BULL TV - SPORT
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8?checkedby:iptvcat.com
 #EXTINF:6,SPORT FRANCE U
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
 https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8?checkedby:iptvcat.com
-#EXTINF:23,#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://stream02.vnet.am/HTB/mono.m3u8
 #EXTINF:20,RBK - RU | RBK
 #EXTVLCOPT:network-caching=1000
 http://e3.online.video.rbc.ru/online2/rbctv_576p/index.m3u8?checkedby:iptvcat.com
-#EXTINF:40,#EXTVLCOPT:network-caching=1000
-http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:22,#EXTVLCOPT:network-caching=1000
-http://live.trkmillet.ru/millet/index.m3u8?checkedby:iptvcat.com
-#EXTINF:20,#EXTVLCOPT:network-caching=1000
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:15,#EXTVLCOPT:network-caching=1000
-http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:18,#EXTVLCOPT:network-caching=1000
-https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:18,#EXTVLCOPT:network-caching=1000
-http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:70,#EXTVLCOPT:network-caching=1000
-http://hls.tv.3angels.ru/stream/HQ.m3u8?checkedby:iptvcat.com
-#EXTINF:18,#EXTVLCOPT:network-caching=1000
-http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:35,#EXTVLCOPT:network-caching=1000
-http://stream0.tv41.ru/live.m3u8?checkedby:iptvcat.com
-#EXTINF:60,ALJAZEERA
+#EXTINF:36,86
 #EXTVLCOPT:network-caching=1000
+https://sitv.ru/hls/s861024.m3u8?checkedby:iptvcat.com
+#EXTINF:24,АРИС 24
+#EXTVLCOPT:network-caching=1000
+http://serv25.vintera.tv:8081/test/aris/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:40,МТВ (Волгоград)
+#EXTVLCOPT:network-caching=1000
+http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:23,Миллет
+#EXTVLCOPT:network-caching=1000
+http://live.trkmillet.ru/millet/index.m3u8?checkedby:iptvcat.com
+#EXTINF:23,Мир HD
+#EXTVLCOPT:network-caching=1000
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:20,Мир 24
+#EXTVLCOPT:network-caching=1000
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:15,Муз союз
+#EXTVLCOPT:network-caching=1000
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:15,НВК Саха
+#EXTVLCOPT:network-caching=1000
+https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:18,HTM
+#EXTVLCOPT:network-caching=1000
+https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:18,Надежда
+#EXTVLCOPT:network-caching=1000
+http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:65,Ника ТВ
+#EXTVLCOPT:network-caching=1000
+http://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:20,Ратник
+#EXTVLCOPT:network-caching=1000
+http://online-video.rbc.ru/online/rbctv.m3u8?checkedby:iptvcat.com
+#EXTINF:30,Союз
+#EXTVLCOPT:network-caching=1000
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:60,ALJAZEERA
 #EXTVLCOPT:network-caching=1000
 http://live-hls-web-aja.getaj.net/AJA/04.m3u8?checkedby:iptvcat.com
 #EXTINF:14400,CNews
