@@ -110,6 +110,27 @@ https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8?checkedby:i
 #EXTINF:23,#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://stream02.vnet.am/HTB/mono.m3u8
+#EXTINF:20,RBK - RU | RBK
+#EXTVLCOPT:network-caching=1000
+http://e3.online.video.rbc.ru/online2/rbctv_576p/index.m3u8?checkedby:iptvcat.com
+#EXTINF:40,#EXTVLCOPT:network-caching=1000
+http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:22,#EXTVLCOPT:network-caching=1000
+http://live.trkmillet.ru/millet/index.m3u8?checkedby:iptvcat.com
+#EXTINF:20,#EXTVLCOPT:network-caching=1000
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:15,#EXTVLCOPT:network-caching=1000
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:18,#EXTVLCOPT:network-caching=1000
+https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:18,#EXTVLCOPT:network-caching=1000
+http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:70,#EXTVLCOPT:network-caching=1000
+http://hls.tv.3angels.ru/stream/HQ.m3u8?checkedby:iptvcat.com
+#EXTINF:18,#EXTVLCOPT:network-caching=1000
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:35,#EXTVLCOPT:network-caching=1000
+http://stream0.tv41.ru/live.m3u8?checkedby:iptvcat.com
 #EXTINF:60,ALJAZEERA
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
