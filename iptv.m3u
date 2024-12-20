@@ -149,3 +149,24 @@ http://live-hls-web-aja.getaj.net/AJA/04.m3u8?checkedby:iptvcat.com
 #EXTINF:14400,CNews
 #EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/CNews.m3u8?checkedby:iptvcat.com
+#EXTINF:60,ABN Africa
+#EXTVLCOPT:network-caching=1000
+https://mediaserver.abnvideos.com/streams/abnafrica.m3u8?checkedby:iptvcat.com
+#EXTINF:16,Africa 24 Sport
+#EXTVLCOPT:network-caching=1000
+https://edge17.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8?checkedby:iptvcat.com
+#EXTINF:30,Al Ahd TV
+#EXTVLCOPT:network-caching=1000
+http://63b03f7689049.streamlock.net:1935/live/7/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:60,KTV 1
+#EXTVLCOPT:network-caching=1000
+https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:30,TV Manแ Espa๑ol
+#EXTVLCOPT:network-caching=1000
+https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:28,UTV
+#EXTVLCOPT:network-caching=1000
+https://mn-nl.mncdn.com/utviraqi2/64c80359/index.m3u8?checkedby:iptvcat.com
+#EXTINF:25,Zarok TV Sorani
+#EXTVLCOPT:network-caching=1000
+https://zindisorani.zaroktv.com.tr/hls/stream.m3u8?checkedby:iptvcat.com
