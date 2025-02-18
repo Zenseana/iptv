@@ -1,16 +1,43 @@
 #EXTM3U
-#EXTINF:30,NBT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTINF:29,Channel 3
 #EXTVLCOPT:network-caching=1000
-https://edge6a.v2h-cdn.com/nbt/nbt.stream/playlist.m3u8
-#EXTINF:30,TPBS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+http://appdootv2.dootvde.com:1935/live/50001_ch3.stream.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:40,Channel 8
 #EXTVLCOPT:network-caching=1000
-https://edge6a.v2h-cdn.com/tpbs/tpbs.stream/playlist.m3u8
-#EXTINF:30,ALTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8?checkedby:iptvcat.com
+#EXTINF:30,MCOT HD
 #EXTVLCOPT:network-caching=1000
-https://edge6a.v2h-cdn.com/altv2/altv.stream/playlist.m3u8
+https://live-org-01-cdn.mcot.net/mcothd1080p_edge/smil:mcothd1080p.smil/master.m3u8?checkedby:iptvcat.com
+#EXTINF:16,MONO 29
+#EXTVLCOPT:network-caching=1000
+https://streaming.monomax.me/Mono29LiveStream/ngrp:myStream_all/master.m3u8?checkedby:iptvcat.com
+#EXTINF:30,Mangorn
+#EXTVLCOPT:network-caching=1000
+http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:31,NBT 2HD
+#EXTVLCOPT:network-caching=1000
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:31,NBT World
+#EXTVLCOPT:network-caching=1000
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:2609-b4a6-64b3-1431-5e64/chunklist_w507269531_b2128000.m3u8?checkedby:iptvcat.com
+#EXTINF:29,Nation TV
+#EXTVLCOPT:network-caching=1000
+http://appdootv2.dootvde.com:1935/live/50015_nation.stream.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:30,TV5 HD
+#EXTVLCOPT:network-caching=1000
+https://edge2a.v2h-cdn.com/tv5hd/tv5hd.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:3600,Thai PBS 3
+#EXTVLCOPT:network-caching=1000
+http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8?checkedby:iptvcat.com
+#EXTINF:29,Thairath TV
+#EXTVLCOPT:network-caching=1000
+http://appdootv2.dootvde.com:1935/live/50023_thairath_hd.stream.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:60,Top News
+#EXTVLCOPT:network-caching=1000
+https://live.topnews.co.th/hls/topnews_a_720.m3u8?checkedby:iptvcat.com
+#EXTINF:29,Workpoint 23
+#EXTVLCOPT:network-caching=1000
+http://appdootv2.dootvde.com:1935/live/50016_workpoint_tv.stream.smil/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:30,5HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
@@ -21,12 +48,9 @@ http://appdootv2.dootvde.com:1935/live/50025_amarin_tv_hd.stream.smil/playlist.m
 #EXTINF:29,Channel 3
 #EXTVLCOPT:network-caching=1000
 http://appdootv2.dootvde.com:1935/live/50001_ch3.stream.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:33,ETV (1080p)
+#EXTINF:33,ETV
 #EXTVLCOPT:network-caching=1000
 http://150.95.66.20:1935/live/livestream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:20,MONO 29 (1080p)
-#EXTVLCOPT:network-caching=1000
-https://streaming.monomax.me/Mono29LiveStream/ngrp:myStream_all/master.m3u8?checkedby:iptvcat.com
 #EXTINF:30,Mangorn (720p)
 #EXTVLCOPT:network-caching=1000
 http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8?checkedby:iptvcat.com
