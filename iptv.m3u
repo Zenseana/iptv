@@ -14,12 +14,6 @@ https://streaming.monomax.me/Mono29LiveStream/ngrp:myStream_all/master.m3u8?chec
 #EXTINF:30,Mangorn
 #EXTVLCOPT:network-caching=1000
 http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:31,NBT 2HD
-#EXTVLCOPT:network-caching=1000
-https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:31,NBT World
-#EXTVLCOPT:network-caching=1000
-https://cdn-edge-ott.prd.go.th/live_vlc/smil:2609-b4a6-64b3-1431-5e64/chunklist_w507269531_b2128000.m3u8?checkedby:iptvcat.com
 #EXTINF:29,Nation TV
 #EXTVLCOPT:network-caching=1000
 http://appdootv2.dootvde.com:1935/live/50015_nation.stream.smil/playlist.m3u8?checkedby:iptvcat.com
@@ -38,71 +32,16 @@ https://live.topnews.co.th/hls/topnews_a_720.m3u8?checkedby:iptvcat.com
 #EXTINF:29,Workpoint 23
 #EXTVLCOPT:network-caching=1000
 http://appdootv2.dootvde.com:1935/live/50016_workpoint_tv.stream.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:30,5HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://edge6a.v2h-cdn.com/tv5hd/tv5hd.stream/playlist.m3u8
-#EXTINF:29,Amarin TV
-#EXTVLCOPT:network-caching=1000
-http://appdootv2.dootvde.com:1935/live/50025_amarin_tv_hd.stream.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:29,Channel 3
-#EXTVLCOPT:network-caching=1000
-http://appdootv2.dootvde.com:1935/live/50001_ch3.stream.smil/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:33,ETV
 #EXTVLCOPT:network-caching=1000
 http://150.95.66.20:1935/live/livestream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:30,Mangorn (720p)
-#EXTVLCOPT:network-caching=1000
-http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:30,T Sports 7 (720p)
-#EXTVLCOPT:network-caching=1000
-https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:30,TNN 16 (720p)
 #EXTVLCOPT:network-caching=1000
 https://edge6a.v2h-cdn.com/tnn24/tnn24.stream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:29,Workpoint 23
-#EXTVLCOPT:network-caching=1000
-http://appdootv2.dootvde.com:1935/live/50016_workpoint_tv.stream.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:30,TSPORT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
-#EXTINF:18,TVB Thai
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://n-edge-1-th.v2h-cdn.com/tvb_m/tvb_thai/playlist.m3u8
-#EXTINF:30,TNN16
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://edge6a.v2h-cdn.com/tnn24/tnn24.stream/playlist.m3u8
-#EXTINF:18,MVTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://n-edge-1-th.v2h-cdn.com/mvtv/mvtv/playlist.m3u8
-#EXTINF:30,Boomerang
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://edge6a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
-#EXTINF:30,MCOT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://edge6a.v2h-cdn.com/mcothd/mcothd.stream/playlist.m3u8
 #EXTINF:40,CNA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://d2e1asnsl7br7b.cloudfront.net/4e4e0baa3d7b4c129b4f5655219e083d/index.m3u8
-#EXTINF:60,NHK WORLD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:30,CCTV4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://edge6a.v2h-cdn.com/cctv4/cctv4.stream/playlist.m3u8
-#EXTINF:30,BOOM ANIME
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://edge6a.v2h-cdn.com//boom_anime/boom_anime.stream/playlist.m3u8
 #EXTINF:594,CNN USA
 #EXTVLCOPT:network-caching=1000
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8?checkedby:iptvcat.com
