@@ -95,3 +95,11 @@ https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabi
 #EXTINF:50,Bloomberg TV US
 #EXTVLCOPT:network-caching=1000
 https://bloomberg.com/media-manifest/streams/us.m3u8?checkedby:iptvcat.com
+
+#EXTINF:23,Balleballe TV HD
+#EXTVLCOPT:network-caching=1000
+https://mcncdndigital.com/balleballetv/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:60,News 24
+#EXTVLCOPT:network-caching=1000
+https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8?checkedby:iptvcat.com
