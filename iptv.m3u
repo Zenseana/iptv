@@ -151,18 +151,18 @@ https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_124.m
 #EXTVLCOPT:network-caching=1000
 http://rtmp.one.by:2300/?checkedby:iptvcat.com
 
-#EXTINF:24,A
+#EXTINF:24,Astrakhanru Sport
 #EXTVLCOPT:network-caching=1000
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8?checkedby:iptvcat.com
 
-#EXTINF:18,B
+#EXTINF:18,HTM
 #EXTVLCOPT:network-caching=1000
 http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:40,C
+#EXTINF:40,Wink 1
 #EXTVLCOPT:network-caching=1000
 http://s14553.cdn.ngenix.net/hls/CH_R04_OTT_DV_SLIN_ROSSIA1_SLIN/variant.m3u8?checkedby:iptvcat.com
 
-#EXTINF:40,D
+#EXTINF:40,Wink 2
 #EXTVLCOPT:network-caching=1000
 http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8?checkedby:iptvcat.com
