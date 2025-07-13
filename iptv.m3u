@@ -176,6 +176,23 @@ https://cmc-kowdtv.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTVLCOPT:network-caching=1000
 http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8?checkedby:iptvcat.com
 
+#EXTINF:25,MOVIEDOME
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/615c1e5ce3039400070a0547/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e7524-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9855fa27-eb7c-4e5a-852e-4c439515c25d&checkedby:iptvcat.com
+
+#EXTINF:25,Moviepilot TV mit Pluto TV
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a67d572fac9c000835eb3a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e9c30-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=78e36af2-8f00-409e-9fb6-605436ac888c&checkedby:iptvcat.com
+
+#EXTINF:0,Movie Plus (544p)
+#EXTVLCOPT:network-caching=1000
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14&checkedby:iptvcat.com
+
+#EXTINF:60,Action Hollywood Movies
+#EXTVLCOPT:network-caching=1000
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8?checkedby:iptvcat.com
+
+
 #EXTINF:40,Wink 1
 #EXTVLCOPT:network-caching=1000
 http://s14553.cdn.ngenix.net/hls/CH_R04_OTT_DV_SLIN_ROSSIA1_SLIN/variant.m3u8?checkedby:iptvcat.com
