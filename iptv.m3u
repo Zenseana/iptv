@@ -147,9 +147,34 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 #EXTINF:300,WBRA PBS Kids (1080p)
 #EXTVLCOPT:network-caching=1000
 https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_124.m3u8?checkedby:iptvcat.com
+
 #EXTINF:0,First Music (Opt-1)
 #EXTVLCOPT:network-caching=1000
 http://rtmp.one.by:2300/?checkedby:iptvcat.com
+
+#EXTINF:0,First Music (Opt-2)
+#EXTVLCOPT:network-caching=1000
+http://rtmp.one.by:1300/?checkedby:iptvcat.com
+
+#EXTINF:171,30A Music
+#EXTVLCOPT:network-caching=1000
+http://30a-tv.com/music.m3u8?checkedby:iptvcat.com
+
+#EXTINF:171,30A Music Channel
+#EXTVLCOPT:network-caching=1000
+https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8?checkedby:iptvcat.com
+
+#EXTINF:30,3ABN Praise Him Music Network
+#EXTVLCOPT:network-caching=1000
+https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:30,CMC-USA (California Music Channel) (720p)
+#EXTVLCOPT:network-caching=1000
+https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:60,California Music Channel
+#EXTVLCOPT:network-caching=1000
+https://cmc-kowdtv.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:24,Astrakhanru Sport
 #EXTVLCOPT:network-caching=1000
