@@ -208,6 +208,10 @@ http://s14553.cdn.ngenix.net/hls/CH_R04_OTT_DV_SLIN_ROSSIA1_SLIN/variant.m3u8?ch
 #EXTVLCOPT:network-caching=1000
 http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8?checkedby:iptvcat.com
 
+#EXTINF:24,SONGTV (720p)
+#EXTVLCOPT:network-caching=1000
+https://songtv.hls.iptvdc.com/web-armenia/index.m3u8?checkedby:iptvcat.com
+
 #EXTINF:60,10 Bold Adelaide (1080p)
 #EXTVLCOPT:network-caching=1000
 https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8?checkedby:iptvcat.com
