@@ -36,6 +36,10 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 #EXTVLCOPT:network-caching=1000
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd?checkedby:iptvcat.com
 
+#EXTINF:100,BBC News Asia Pacific (720p)
+#EXTVLCOPT:network-caching=1000
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15&checkedby:iptvcat.com
+
 #EXTINF:50,Bloomberg TV US
 #EXTVLCOPT:network-caching=1000
 https://bloomberg.com/media-manifest/streams/us.m3u8?checkedby:iptvcat.com
@@ -192,7 +196,6 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14&checkedb
 #EXTVLCOPT:network-caching=1000
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8?checkedby:iptvcat.com
 
-
 #EXTINF:40,Wink 1
 #EXTVLCOPT:network-caching=1000
 http://s14553.cdn.ngenix.net/hls/CH_R04_OTT_DV_SLIN_ROSSIA1_SLIN/variant.m3u8?checkedby:iptvcat.com
@@ -200,5 +203,13 @@ http://s14553.cdn.ngenix.net/hls/CH_R04_OTT_DV_SLIN_ROSSIA1_SLIN/variant.m3u8?ch
 #EXTINF:40,Wink 2
 #EXTVLCOPT:network-caching=1000
 http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8?checkedby:iptvcat.com
+
+#EXTINF:60,10 Bold Adelaide (1080p)
+#EXTVLCOPT:network-caching=1000
+https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:26,Folk Klub (720p)
+#EXTVLCOPT:network-caching=1000
+http://tv1.intv.mk:1935/live2/folkklub/index.m3u8?checkedby:iptvcat.com
 
 
