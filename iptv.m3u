@@ -20,6 +20,10 @@ https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
 #EXTVLCOPT:network-caching=1000
 http://tvpremiumhd.club/lista-gratuita/221424/cnn.m3u8?checkedby:iptvcat.com
 
+#EXTINF:30,CNA (1080p)
+#EXTVLCOPT:network-caching=1000
+https://live1.mediadesk.al/cnatvlive.m3u8?checkedby:iptvcat.com
+
 #EXTINF:68,Fox News Channel (720p)
 #EXTVLCOPT:network-caching=1000
 https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8?checkedby:iptvcat.com
