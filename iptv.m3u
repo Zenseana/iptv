@@ -255,4 +255,31 @@ https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af78
 #EXTVLCOPT:network-caching=1000
 http://tv1.intv.mk:1935/live2/folkklub/index.m3u8?checkedby:iptvcat.com
 
+#EXTINF:60,BeIN Sports XTRA (1080p)
+#EXTVLCOPT:network-caching=1000
+https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:25,CBS Sports HQ
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d&checkedby:iptvcat.com
+
+#EXTINF:20,CBS Sports Network USA
+#EXTVLCOPT:network-caching=1000
+https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:24,FanDuel Sports Network
+#EXTVLCOPT:network-caching=1000
+https://fl3.moveonjoy.com/PAC_12/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:25,NBC Sports
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6549306c83595c000815a696/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5102-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=21e31328-eadb-4828-8608-0cc14ce24586&checkedby:iptvcat.com
+
+#EXTINF:60,Speed Sport 1 (1080p)
+#EXTVLCOPT:network-caching=1000
+https://linear-599.frequency.stream/dist/stirr/599/hls/master/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:60,Trace Sports Stars (1080p)
+#EXTVLCOPT:network-caching=1000
+https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 
