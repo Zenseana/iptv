@@ -342,10 +342,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?checked
 #EXTVLCOPT:network-caching=1000
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:36,86 #EXTVLCOPT:network-caching=1000
-https://sitv.ru/hls/s861024.m3u8?checkedby:iptvcat.com
-
-#EXTINF:36,86 #EXTVLCOPT:network-caching=1000
+#EXTINF:36,C86 
+#EXTVLCOPT:network-caching=1000
 https://sitv.ru/hls/s861024.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0,Brodilo TV - Brodilo.TV,RU | Brodilo TV
