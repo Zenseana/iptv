@@ -397,7 +397,6 @@ https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8?checkedby:iptvcat.com
 #EXTVLCOPT:network-caching=1000
 http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8?checkedby:iptvcat.com
 
-#EXTM3U
 #EXTINF:36,86 
 https://sitv.ru/hls/s861024.m3u8?checkedby:iptvcat.com
 
@@ -414,3 +413,10 @@ http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3
 #EXTINF:40,C1
 #EXTVLCOPT:network-caching=1000
 http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8?checkedby:iptvcat.com
+
+#EXTINF:15,DXOtb
+http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0,TB
+http://hithd.camsh.orsk.ru/hls/hit.m3u8?checkedby:iptvcat.com
+
