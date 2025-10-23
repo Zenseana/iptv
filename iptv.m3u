@@ -397,6 +397,20 @@ https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8?checkedby:iptvcat.com
 #EXTVLCOPT:network-caching=1000
 http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8?checkedby:iptvcat.com
 
+#EXTM3U
+#EXTINF:36,86 
+https://sitv.ru/hls/s861024.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0,Brodilo TV - Brodilo.TV,RU | Brodilo TV
+#EXTVLCOPT:network-caching=1000
+http://brodilo.tv/channel.php?checkedby:iptvcat.com
+
+#EXTINF:24,#Ag24
+https://streaming.astrakhan.ru/astrakhan24/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
+
+#EXTINF:40,MTB
+http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8?checkedby:iptvcat.com
+
 #EXTINF:40,C1
 #EXTVLCOPT:network-caching=1000
 http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8?checkedby:iptvcat.com
