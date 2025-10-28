@@ -232,14 +232,6 @@ https://live1.mediadesk.al/cnatvlive.m3u8?checkedby:iptvcat.com
 #EXTVLCOPT:network-caching=1000
 https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8?checkedby:iptvcat.com
 
-#EXTINF:25,FOX Sports
-#EXTVLCOPT:network-caching=1000
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f173-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=46a3b8ff-5a4a-4952-bb4d-9461224acd54&serverSideAds=false&checkedby:iptvcat.com
-
-#EXTINF:25,FOX Sports
-#EXTVLCOPT:network-caching=1000
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f173-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=46a3b8ff-5a4a-4952-bb4d-9461224acd54&checkedby:iptvcat.com
-
 #EXTINF:62,Fox News Channel (720p)
 #EXTVLCOPT:network-caching=1000
 https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8?checkedby:iptvcat.com
@@ -304,29 +296,9 @@ https://lb1-live-mv.v2h-cdn.com/hls/fefb/cctv4/cctv4.m3u8
 #EXTVLCOPT:network-caching=1000
 https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8?checkedby:iptvcat.com
 
-#EXTINF:15,Victor Valley Movies (1080p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-https://2-fss-2.streamhoster.com/pl_138/201950-5317556-1/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:25,Movies for Gamers
-#EXTVLCOPT:network-caching=1000
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6008ddf24ef92b00079d61cf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2f37e9d8-bdac-4d46-949d-ccfbf76dd6e0&checkedby:iptvcat.com
-
-#EXTINF:25,MovieSphere by Lionsgate
-#EXTVLCOPT:network-caching=1000
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/645e7828e1979c00087b75b4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6ee42393-c7a0-4d1d-82c7-0121c35ec03e&serverSideAds=false&checkedby:iptvcat.com
-
 #EXTINF:25,90's Kids
 #EXTVLCOPT:network-caching=1000
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6452c814939a590008567a3b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c263254-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a2521e96-4461-4157-b0d7-865b57c5f565&serverSideAds=false&checkedby:iptvcat.com
-
-#EXTINF:0,First Music (Opt-1)
-#EXTVLCOPT:network-caching=1000
-http://rtmp.one.by:2300/?checkedby:iptvcat.com
-
-#EXTINF:0,First Music (Opt-2)
-#EXTVLCOPT:network-caching=1000
-http://rtmp.one.by:1300/?checkedby:iptvcat.com
 
 #EXTINF:171,30A Music Channel
 #EXTVLCOPT:network-caching=1000
@@ -348,57 +320,9 @@ https://cmc-kowdtv.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTVLCOPT:network-caching=1000
 http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:25,MOVIEDOME
-#EXTVLCOPT:network-caching=1000
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/615c1e5ce3039400070a0547/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e7524-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9855fa27-eb7c-4e5a-852e-4c439515c25d&checkedby:iptvcat.com
-
-#EXTINF:25,Moviepilot TV mit Pluto TV
-#EXTVLCOPT:network-caching=1000
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a67d572fac9c000835eb3a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e9c30-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=78e36af2-8f00-409e-9fb6-605436ac888c&checkedby:iptvcat.com
-
-#EXTINF:0,Movie Plus (544p)
-#EXTVLCOPT:network-caching=1000
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14&checkedby:iptvcat.com
-
 #EXTINF:60,Action Hollywood Movies
 #EXTVLCOPT:network-caching=1000
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:25,Hallmark Movies & More
-#EXTVLCOPT:network-caching=1000
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/628e685ba3811100070551a8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291886-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=58dbb587-5d0d-412d-ae10-107ee9caac5a&serverSideAds=false&checkedby:iptvcat.com
-
-#EXTINF:24,Lifetime Movies East
-#EXTVLCOPT:network-caching=1000
-https://fl3.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:25,Movie Favorites By Lifetime
-#EXTVLCOPT:network-caching=1000
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63335b193583440007c859fb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c32f13eb-8395-4e23-87b8-0bd6e7d05f16&checkedby:iptvcat.com
-
-#EXTINF:28,MovieSphere by Lionsgate
-#EXTVLCOPT:network-caching=1000
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/645e7828e1979c00087b75b4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6ee42393-c7a0-4d1d-82c7-0121c35ec03e&checkedby:iptvcat.com
-
-#EXTINF:33,Movies!
-#EXTVLCOPT:network-caching=1000
-https://dvrfl03.bozztv.com/hdirect/hdirect-ovair1-movies!/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:25,Paramount Movie Channel
-#EXTVLCOPT:network-caching=1000
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7819-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8a4a0712-cb24-4d05-b429-1b98c1f73f74&checkedby:iptvcat.com
-
-#EXTINF:25,Pluto TV Crime Movies
-#EXTVLCOPT:network-caching=1000
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed41-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e4d2554e-9b84-4086-8e1d-07f64310a23b&checkedby:iptvcat.com
-
-#EXTINF:20,Turner Classic Movies (TCM) East (720p)
-#EXTVLCOPT:network-caching=1000
-http://143.244.60.30/TCM/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:26,Harbin Movie Channel
-#EXTVLCOPT:network-caching=1000
-https://stream.hrbtv.net/yspd/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:40,Wink 1
 #EXTVLCOPT:network-caching=1000
@@ -407,10 +331,6 @@ http://s14553.cdn.ngenix.net/hls/CH_R04_OTT_DV_SLIN_ROSSIA1_SLIN/variant.m3u8?ch
 #EXTINF:40,Wink 2
 #EXTVLCOPT:network-caching=1000
 http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8?checkedby:iptvcat.com
-
-#EXTINF:24,SONGTV (720p)
-#EXTVLCOPT:network-caching=1000
-https://songtv.hls.iptvdc.com/web-armenia/index.m3u8?checkedby:iptvcat.com
 
 #EXTINF:60,10 Bold Adelaide (1080p)
 #EXTVLCOPT:network-caching=1000
@@ -466,10 +386,6 @@ http://e3.online.video.rbc.ru/online2/rbctv_576p/index.m3u8?checkedby:iptvcat.co
 #EXTVLCOPT:network-caching=1000
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?checkedby:iptvcat.com
 
-#EXTINF:20,Sochi Live HD
-#EXTVLCOPT:network-caching=1000
-http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8?checkedby:iptvcat.com
-
 #EXTINF:36,C86 
 #EXTVLCOPT:network-caching=1000
 https://sitv.ru/hls/s861024.m3u8?checkedby:iptvcat.com
@@ -514,15 +430,9 @@ https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8?checkedby:iptvcat.com
 #EXTVLCOPT:network-caching=1000
 http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8?checkedby:iptvcat.com
 
-#EXTINF:36,86 
-https://sitv.ru/hls/s861024.m3u8?checkedby:iptvcat.com
-
 #EXTINF:0,Brodilo TV - Brodilo.TV,RU | Brodilo TV
 #EXTVLCOPT:network-caching=1000
 http://brodilo.tv/channel.php?checkedby:iptvcat.com
-
-#EXTINF:24,#Ag24
-https://streaming.astrakhan.ru/astrakhan24/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
 
 #EXTINF:40,MTB
 http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8?checkedby:iptvcat.com
