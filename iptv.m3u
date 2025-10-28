@@ -36,6 +36,10 @@ https://load1.v2h-cdn.com/digitaltv/pptv/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65d92a8c8b24c80008e285c0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9f1a48db-9022-43d1-bb25-ba665285192f&serverSideAds=false&checkedby:iptvcat.com
 
+#EXTINF:25,BBC Earth
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/656535fc2c46f30008870fae/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26ce98-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=73fe2b3e-3885-4bd2-874c-cc5f2153e555&serverSideAds=false&checkedby:iptvcat.com
+
 #EXTINF:7200,BBC Arabic
 #EXTVLCOPT:network-caching=1000
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd?checkedby:iptvcat.com
@@ -148,6 +152,14 @@ https://linear-599.frequency.stream/dist/stirr/599/hls/master/playlist.m3u8?chec
 #EXTVLCOPT:network-caching=1000
 https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 
+#EXTINF:25,Service
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c298db4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=24f8b91f-0237-469f-a450-a4f94a1f5b92&serverSideAds=false&checkedby:iptvcat.com
+
+#EXTINF:30,CMC-USA (California Music Channel) (720p)
+#EXTVLCOPT:network-caching=1000
+https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8?checkedby:iptvcat.com
+
 #EXTINF:171,30A Music Channel
 #EXTVLCOPT:network-caching=1000
 https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8?checkedby:iptvcat.com
@@ -155,10 +167,6 @@ https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8?checkedby:iptvcat.com
 #EXTINF:30,3ABN Praise Him Music Network
 #EXTVLCOPT:network-caching=1000
 https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:30,CMC-USA (California Music Channel) (720p)
-#EXTVLCOPT:network-caching=1000
-https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:23,Balleballe TV HD
 #EXTVLCOPT:network-caching=1000
