@@ -292,9 +292,21 @@ https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/fefb/cctv4/cctv4.m3u8
 
+#EXTINF:36,Rakuten TV Action Movies UK (1080p)
+#EXTVLCOPT:network-caching=1000
+https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8?checkedby:iptvcat.com
+
+#EXTINF:60,Action Hollywood Movies
+#EXTVLCOPT:network-caching=1000
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8?checkedby:iptvcat.com
+
 #EXTINF:180,30A TV Classic Movies
 #EXTVLCOPT:network-caching=1000
 https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8?checkedby:iptvcat.com
+
+#EXTINF:25,Pluto TV Classic Movies (England) (720p)
+#EXTVLCOPT:network-caching=1000
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d134a74ca91eedee1630faa/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d134a74ca91eedee1630faa&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=903&terminate=false&userId=&checkedby:iptvcat.com
 
 #EXTINF:78,FX Movie Channel (720p)
 #EXTVLCOPT:network-caching=1000
@@ -324,17 +336,9 @@ https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8?checke
 #EXTVLCOPT:network-caching=1000
 https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:60,California Music Channel
-#EXTVLCOPT:network-caching=1000
-https://cmc-kowdtv.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
-
 #EXTINF:18,HTM
 #EXTVLCOPT:network-caching=1000
 http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:60,Action Hollywood Movies
-#EXTVLCOPT:network-caching=1000
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:40,Wink 1
 #EXTVLCOPT:network-caching=1000
@@ -379,12 +383,6 @@ https://linear-599.frequency.stream/dist/stirr/599/hls/master/playlist.m3u8?chec
 #EXTINF:60,Trace Sports Stars (1080p)
 #EXTVLCOPT:network-caching=1000
 https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:36,86 #EXTVLCOPT:network-caching=1000
-https://sitv.ru/hls/s861024.m3u8?checkedby:iptvcat.com
-
-#EXTINF:36,86 #EXTVLCOPT:network-caching=1000
-https://sitv.ru/hls/s861024.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0,Brodilo TV - Brodilo.TV,RU | Brodilo TV
 #EXTVLCOPT:network-caching=1000
