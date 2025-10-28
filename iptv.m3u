@@ -108,29 +108,9 @@ https://mcncdndigital.com/balleballetv/index.m3u8?checkedby:iptvcat.com
 #EXTVLCOPT:network-caching=1000
 https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:60,World of Freesports (1080p)
-#EXTVLCOPT:network-caching=1000
-https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8?checkedby:iptvcat.com
-
-#EXTINF:180,Red Bull TV 1
-#EXTVLCOPT:network-caching=1000
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?checkedby:iptvcat.com
-
-#EXTINF:60,Red Bull TV 2
-#EXTVLCOPT:network-caching=1000
-https://shls-live-enc.edgenextcdn.net/out/v1/ad35123d4ad041068bce26ae67ee3180/index.m3u8?checkedby:iptvcat.com
-
 #EXTINF:-1 tvg-chno="104" ch-number="104" tvg-id="France 24.th" tvg-name="France 24" tvg-logo="https://media-mvtv.imgix.net/channel/151_y_YrFS8xk32BmplLV4NcHgdXRsuU7TvWZ5.png" group-title="Digital TV", France 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/fecd/france24/france24.m3u8
-
-#EXTINF:-1 tvg-chno="106" ch-number="106" tvg-id="NHK WORLD.th" tvg-name="NHK WORLD" tvg-logo="https://media-mvtv.imgix.net/channel/155_y_ERge294wz1fsLvyCjX3DStPGcMmYFIKo.jpg" group-title="Digital TV", NHK WORLD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
-
-#EXTINF:-1 tvg-chno="107" ch-number="107" tvg-id="CCTV4.th" tvg-name="CCTV4" tvg-logo="https://media-mvtv.imgix.net/channel/154_y_lIpB1wRXh7vQUYcAkzxLd8EVbg9Gsa0u.png" group-title="Digital TV", CCTV4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/fefb/cctv4/cctv4.m3u8
 
 #EXTINF:36,Rakuten TV Action Movies UK (1080p)
 #EXTVLCOPT:network-caching=1000
@@ -160,41 +140,17 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62
 #EXTVLCOPT:network-caching=1000
 https://tvpass.org/live/LifetimeMoviesEast/hd?checkedby:iptvcat.com
 
-#EXTINF:25,90's Kids
+#EXTINF:60,World of Freesports (1080p)
 #EXTVLCOPT:network-caching=1000
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6452c814939a590008567a3b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c263254-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a2521e96-4461-4157-b0d7-865b57c5f565&serverSideAds=false&checkedby:iptvcat.com
+https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8?checkedby:iptvcat.com
 
-#EXTINF:171,30A Music Channel
+#EXTINF:180,Red Bull TV 1
 #EXTVLCOPT:network-caching=1000
-https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8?checkedby:iptvcat.com
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?checkedby:iptvcat.com
 
-#EXTINF:30,3ABN Praise Him Music Network
+#EXTINF:60,Red Bull TV 2
 #EXTVLCOPT:network-caching=1000
-https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:30,CMC-USA (California Music Channel) (720p)
-#EXTVLCOPT:network-caching=1000
-https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:18,HTM
-#EXTVLCOPT:network-caching=1000
-http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:40,Wink 1
-#EXTVLCOPT:network-caching=1000
-http://s14553.cdn.ngenix.net/hls/CH_R04_OTT_DV_SLIN_ROSSIA1_SLIN/variant.m3u8?checkedby:iptvcat.com
-
-#EXTINF:40,Wink 2
-#EXTVLCOPT:network-caching=1000
-http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8?checkedby:iptvcat.com
-
-#EXTINF:60,10 Bold Adelaide (1080p)
-#EXTVLCOPT:network-caching=1000
-https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:26,Folk Klub (720p)
-#EXTVLCOPT:network-caching=1000
-http://tv1.intv.mk:1935/live2/folkklub/index.m3u8?checkedby:iptvcat.com
+https://shls-live-enc.edgenextcdn.net/out/v1/ad35123d4ad041068bce26ae67ee3180/index.m3u8?checkedby:iptvcat.com
 
 #EXTINF:60,BeIN Sports XTRA (1080p)
 #EXTVLCOPT:network-caching=1000
@@ -224,6 +180,34 @@ https://linear-599.frequency.stream/dist/stirr/599/hls/master/playlist.m3u8?chec
 #EXTVLCOPT:network-caching=1000
 https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 
+#EXTINF:25,90's Kids
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6452c814939a590008567a3b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c263254-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a2521e96-4461-4157-b0d7-865b57c5f565&serverSideAds=false&checkedby:iptvcat.com
+
+#EXTINF:171,30A Music Channel
+#EXTVLCOPT:network-caching=1000
+https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8?checkedby:iptvcat.com
+
+#EXTINF:30,3ABN Praise Him Music Network
+#EXTVLCOPT:network-caching=1000
+https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:30,CMC-USA (California Music Channel) (720p)
+#EXTVLCOPT:network-caching=1000
+https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:18,HTM
+#EXTVLCOPT:network-caching=1000
+http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:60,10 Bold Adelaide (1080p)
+#EXTVLCOPT:network-caching=1000
+https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:26,Folk Klub (720p)
+#EXTVLCOPT:network-caching=1000
+http://tv1.intv.mk:1935/live2/folkklub/index.m3u8?checkedby:iptvcat.com
+
 #EXTINF:0,Brodilo TV - Brodilo.TV,RU | Brodilo TV
 #EXTVLCOPT:network-caching=1000
 http://brodilo.tv/channel.php?checkedby:iptvcat.com
@@ -239,10 +223,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?checked
 #EXTINF:36,C86 
 #EXTVLCOPT:network-caching=1000
 https://sitv.ru/hls/s861024.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0,Brodilo TV - Brodilo.TV,RU | Brodilo TV
-#EXTVLCOPT:network-caching=1000
-http://brodilo.tv/channel.php?checkedby:iptvcat.com
 
 #EXTINF:20,RBK - RU | RBK
 #EXTVLCOPT:network-caching=1000
