@@ -152,6 +152,10 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?checked
 #EXTVLCOPT:network-caching=1000
 https://shls-live-enc.edgenextcdn.net/out/v1/ad35123d4ad041068bce26ae67ee3180/index.m3u8?checkedby:iptvcat.com
 
+#EXTINF:180,Red Bull TV - Red Bull TV HD,Red Bull TV SD
+#EXTVLCOPT:network-caching=1000
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?checkedby:iptvcat.com
+
 #EXTINF:60,BeIN Sports XTRA (1080p)
 #EXTVLCOPT:network-caching=1000
 https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
@@ -215,10 +219,6 @@ http://brodilo.tv/channel.php?checkedby:iptvcat.com
 #EXTINF:20,RBK - RU | RBK
 #EXTVLCOPT:network-caching=1000
 http://e3.online.video.rbc.ru/online2/rbctv_576p/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:180,Red Bull TV - Red Bull TV HD,Red Bull TV SD
-#EXTVLCOPT:network-caching=1000
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?checkedby:iptvcat.com
 
 #EXTINF:36,C86 
 #EXTVLCOPT:network-caching=1000
