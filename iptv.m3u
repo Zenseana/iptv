@@ -4,13 +4,9 @@
 # Last Update: 2025-10-27 09:32:00 UTC+07 ICT
 # =======================================================
 
-#EXTINF:-1 tvg-chno="1" ch-number="1" tvg-id="MVTV ท้องถิ่นไทย (75).th" tvg-name="MVTV ท้องถิ่นไทย (75)" tvg-logo="https://media-mvtv.imgix.net/channel/30_y_6j8hFgB9MRvUswTeCySxbJf3k74NQloE.png" group-title="Digital TV", MVTV ท้องถิ่นไทย (75)
+#EXTINF:-1 tvg-chno="33" ch-number="33" tvg-id="3HD.th" tvg-name="3HD" tvg-logo="https://media-mvtv.imgix.net/channel/132_y_TFYiXWvrUf4s8tbIwJ29S3zMNeqghGmB.png" group-title="Digital TV", 3HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
-https://lb1-live-mv.v2h-cdn.com/hls/ffff/mvtv75/mvtv75.m3u8
-
-#EXTINF:-1 tvg-chno="2" ch-number="2" tvg-id="NBT.th" tvg-name="NBT" tvg-logo="https://media-mvtv.imgix.net/channel/115_y_fFG0J46IoYNzUjVKatsbL7vZByxiMqTm.png" group-title="Digital TV", NBT
-#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
-https://load1.v2h-cdn.com/RE_freetv/NBT.stream_720p/playlist.m3u8
+https://load1.v2h-cdn.com/digitaltv/ch3/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="4" ch-number="4" tvg-id="ALTV.th" tvg-name="ALTV" tvg-logo="https://media-mvtv.imgix.net/channel/117_y_8JTfbUnwW9t2kuVh6ZpONEqv7MeBIsQR.png" group-title="Digital TV", ALTV
 #EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
@@ -20,49 +16,33 @@ https://load1.v2h-cdn.com/RE_Nginx_digital/digi_altv.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
 https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
 
-#EXTINF:-1 tvg-chno="7" ch-number="7" tvg-id="T SPORT.th" tvg-name="T SPORT" tvg-logo="https://media-mvtv.imgix.net/channel/119_y_OhjxHr9fqS2i0NJvPUlcL85mn6e4FoIu.png" group-title="Digital TV", T SPORT
-#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
-https://load1.v2h-cdn.com/digitaltv/tsport/playlist.m3u8
-
 #EXTINF:-1 tvg-chno="10" ch-number="10" tvg-id="TPTV.th" tvg-name="TPTV" tvg-logo="https://media-mvtv.imgix.net/channel/120_y_VSgE7P9GiDCxrhFWUALYpvzfM12cdqmH.png" group-title="Digital TV", TPTV
 #EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
 https://load1.v2h-cdn.com/digitaltv/tptv/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="21" ch-number="21" tvg-id="ไทบ้านทีวี.th" tvg-name="ไทบ้านทีวี" tvg-logo="https://media-mvtv.imgix.net/channel/35_y_V2hcyg7xD4BpCIPSJT0un8zWYL6bAqfi.png" group-title="Digital TV", ไทบ้านทีวี
-#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
-https://lb1-live-mv.v2h-cdn.com/hls/ffcd/thaibaan/thaibaan.m3u8
 
 #EXTINF:-1 tvg-chno="29" ch-number="29" tvg-id="MONO 29.th" tvg-name="MONO 29" tvg-logo="https://media-mvtv.imgix.net/channel/128_y_KUvdGmb2hpV41ni5rCk9OlFoXePMA80Q.png" group-title="Digital TV", MONO 29
 #EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
 https://load1.v2h-cdn.com/digitaltv/mono/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="30" ch-number="30" tvg-id="MCOT.th" tvg-name="MCOT" tvg-logo="https://media-mvtv.imgix.net/channel/129_y_hG7Nj2qWnldBu0fkMDyvT8CwYXLI649F.png" group-title="Digital TV", MCOT
-#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
-https://load1.v2h-cdn.com/RE_freetv/McotHD.stream_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="31" ch-number="31" tvg-id="ONE.th" tvg-name="ONE" tvg-logo="https://media-mvtv.imgix.net/channel/130_y_3Lx4j6ZzpIidKPqChaF2QRYeWorw79Jv.png" group-title="Digital TV", ONE
-#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
-https://load1.v2h-cdn.com/RE_freetv/OneHD.stream_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="32" ch-number="32" tvg-id="Thairath.th" tvg-name="Thairath" tvg-logo="https://media-mvtv.imgix.net/channel/131_y_iJmHlFadZ0G8EhIYMw2A3OfbN1Qpzgou.png" group-title="Digital TV", Thairath
-#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
-https://load1.v2h-cdn.com/RE_freetv/ThairathHD.stream_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="33" ch-number="33" tvg-id="3HD.th" tvg-name="3HD" tvg-logo="https://media-mvtv.imgix.net/channel/132_y_TFYiXWvrUf4s8tbIwJ29S3zMNeqghGmB.png" group-title="Digital TV", 3HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
-https://load1.v2h-cdn.com/digitaltv/ch3/playlist.m3u8
-
 #EXTINF:-1 tvg-chno="34" ch-number="34" tvg-id="Amarin.th" tvg-name="Amarin" tvg-logo="https://media-mvtv.imgix.net/channel/133_y_kLIyaJt3VoGD8sqrHnhKPjZUQ0RE6mu4.png" group-title="Digital TV", Amarin
 #EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
 https://load1.v2h-cdn.com/digitaltv/amarin/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="35" ch-number="35" tvg-id="7HD.th" tvg-name="7HD" tvg-logo="https://media-mvtv.imgix.net/channel/134_y_YTkIZJDsbmX26owPRpAFSfW0eyz95vn4.png" group-title="Digital TV", 7HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
-https://load1.v2h-cdn.com/RE_freetv/7HD.stream_720p/playlist.m3u8
-
 #EXTINF:-1 tvg-chno="36" ch-number="36" tvg-id="PPTV.th" tvg-name="PPTV" tvg-logo="https://media-mvtv.imgix.net/channel/135_y_7hl4KHdwBqS0VGNCskrDLyci538zY2Qx.png" group-title="Digital TV", PPTV
 #EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
 https://load1.v2h-cdn.com/digitaltv/pptv/playlist.m3u8
+
+#EXTINF:25,BBC News
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65d92a8c8b24c80008e285c0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9f1a48db-9022-43d1-bb25-ba665285192f&serverSideAds=false&checkedby:iptvcat.com
+
+#EXTINF:7200,BBC Arabic
+#EXTVLCOPT:network-caching=1000
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd?checkedby:iptvcat.com
+
+#EXTINF:50,Bloomberg TV US
+#EXTVLCOPT:network-caching=1000
+https://bloomberg.com/media-manifest/streams/us.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-chno="105" ch-number="105" tvg-id="CNA.th" tvg-name="CNA" tvg-logo="https://media-mvtv.imgix.net/channel/152_y_zynZw6RpjUoxHbGMh28eCKk9BlqIXJAa.png" group-title="Digital TV", CNA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
@@ -79,30 +59,6 @@ https://live1.mediadesk.al/cnatvlive.m3u8?checkedby:iptvcat.com
 #EXTINF:68,Fox News Channel (720p)
 #EXTVLCOPT:network-caching=1000
 https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8?checkedby:iptvcat.com
-
-#EXTINF:44,Fox Sports 2 (720p)
-#EXTVLCOPT:network-caching=1000
-https://tvpass.org/live/FoxSports2/hd?checkedby:iptvcat.com
-
-#EXTINF:25,BBC News
-#EXTVLCOPT:network-caching=1000
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65d92a8c8b24c80008e285c0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9f1a48db-9022-43d1-bb25-ba665285192f&serverSideAds=false&checkedby:iptvcat.com
-
-#EXTINF:7200,BBC Arabic
-#EXTVLCOPT:network-caching=1000
-https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd?checkedby:iptvcat.com
-
-#EXTINF:100,BBC News Asia Pacific (720p)
-#EXTVLCOPT:network-caching=1000
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15&checkedby:iptvcat.com
-
-#EXTINF:50,Bloomberg TV US
-#EXTVLCOPT:network-caching=1000
-https://bloomberg.com/media-manifest/streams/us.m3u8?checkedby:iptvcat.com
-
-#EXTINF:23,Balleballe TV HD
-#EXTVLCOPT:network-caching=1000
-https://mcncdndigital.com/balleballetv/index.m3u8?checkedby:iptvcat.com
 
 #EXTINF:60,News 24
 #EXTVLCOPT:network-caching=1000
@@ -144,6 +100,14 @@ https://tvpass.org/live/LifetimeMoviesEast/hd?checkedby:iptvcat.com
 #EXTVLCOPT:network-caching=1000
 https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8?checkedby:iptvcat.com
 
+#EXTINF:-1 tvg-chno="7" ch-number="7" tvg-id="T SPORT.th" tvg-name="T SPORT" tvg-logo="https://media-mvtv.imgix.net/channel/119_y_OhjxHr9fqS2i0NJvPUlcL85mn6e4FoIu.png" group-title="Digital TV", T SPORT
+#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
+https://load1.v2h-cdn.com/digitaltv/tsport/playlist.m3u8
+
+#EXTINF:44,Fox Sports 2 (720p)
+#EXTVLCOPT:network-caching=1000
+https://tvpass.org/live/FoxSports2/hd?checkedby:iptvcat.com
+
 #EXTINF:180,Red Bull TV 1
 #EXTVLCOPT:network-caching=1000
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?checkedby:iptvcat.com
@@ -184,10 +148,6 @@ https://linear-599.frequency.stream/dist/stirr/599/hls/master/playlist.m3u8?chec
 #EXTVLCOPT:network-caching=1000
 https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:25,90's Kids
-#EXTVLCOPT:network-caching=1000
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6452c814939a590008567a3b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c263254-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a2521e96-4461-4157-b0d7-865b57c5f565&serverSideAds=false&checkedby:iptvcat.com
-
 #EXTINF:171,30A Music Channel
 #EXTVLCOPT:network-caching=1000
 https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8?checkedby:iptvcat.com
@@ -199,6 +159,10 @@ https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8?checke
 #EXTINF:30,CMC-USA (California Music Channel) (720p)
 #EXTVLCOPT:network-caching=1000
 https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:23,Balleballe TV HD
+#EXTVLCOPT:network-caching=1000
+https://mcncdndigital.com/balleballetv/index.m3u8?checkedby:iptvcat.com
 
 #EXTINF:18,HTM
 #EXTVLCOPT:network-caching=1000
