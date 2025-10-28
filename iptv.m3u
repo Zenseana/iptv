@@ -28,25 +28,9 @@ https://load1.v2h-cdn.com/digitaltv/tsport/playlist.m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
 https://load1.v2h-cdn.com/digitaltv/tptv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="11" ch-number="11" tvg-id="MVMall Healthy (58).th" tvg-name="MVMall Healthy (58)" tvg-logo="https://media-mvtv.imgix.net/channel/36_y_LzOCkoTG95mZhJ6IrADcMafyPQ1qVBE4.png" group-title="Digital TV", MVMall Healthy (58)
-#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
-https://lb1-live-mv.v2h-cdn.com/hls/fdff/mvmallhelth/mvmallhelth.m3u8
-
-#EXTINF:-1 tvg-chno="12" ch-number="12" tvg-id="MVMall DD (59).th" tvg-name="MVMall DD (59)" tvg-logo="https://media-mvtv.imgix.net/channel/40_y_R3MIzeVEgNlZovn5byXDchKdr9P12QfF.jpg" group-title="Digital TV", MVMall DD (59)
-#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
-https://lb1-live-mv.v2h-cdn.com/hls/fdee/mvmalldd/mvmalldd.m3u8
-
-#EXTINF:-1 tvg-chno="15" ch-number="15" tvg-id="MVMall Living (26).th" tvg-name="MVMall Living (26)" tvg-logo="https://media-mvtv.imgix.net/channel/171_y_XOJ6qMirnDGuk01TLQjlWho5PtKSa9Ud.png" group-title="Digital TV", MVMall Living (26)
-#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
-https://lb1-live-mv.v2h-cdn.com/hls/fddc/mvmallliving/mvmallliving.m3u8
-
 #EXTINF:-1 tvg-chno="16" ch-number="16" tvg-id="TNN.th" tvg-name="TNN" tvg-logo="https://media-mvtv.imgix.net/channel/121_y_uQNBde5zrpo4TKm9kOZPx6iRbGaACfFE.png" group-title="Digital TV", TNN
 #EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
 https://load1.v2h-cdn.com/RE_freetv/TNN24.stream_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="17" ch-number="17" tvg-id="MVMall Family (40).th" tvg-name="MVMall Family (40)" tvg-logo="https://media-mvtv.imgix.net/channel/107_y_aNzHOm07eZL1nc5MkpIUTBfPGit2qE4y.png" group-title="Digital TV", MVMall Family (40)
-#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
-https://lb1-live-mv.v2h-cdn.com/hls/ffdb/mvmallfamily/mvmallfamily.m3u8
 
 #EXTINF:-1 tvg-chno="18" ch-number="18" tvg-id="JKN18.th" tvg-name="JKN18" tvg-logo="https://media-mvtv.imgix.net/channel/122_y_bzfht4O5uRNHylcq1D6nV9TvxmdXWaQP.png" group-title="Digital TV", JKN18
 #EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
