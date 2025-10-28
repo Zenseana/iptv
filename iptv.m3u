@@ -16,10 +16,6 @@ https://load1.v2h-cdn.com/RE_freetv/NBT.stream_720p/playlist.m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
 https://load1.v2h-cdn.com/RE_Nginx_digital/digi_altv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="5" ch-number="5" tvg-id="5HD.th" tvg-name="5HD" tvg-logo="https://media-mvtv.imgix.net/channel/118_y_0kEyP9Yrw5jTWflXevIZ1Dqhoa2mi4QO.png" group-title="Digital TV", 5HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
-https://load1.v2h-cdn.com/RE_freetv/TV5HD.stream_720p/playlist.m3u8
-
 #EXTINF:-1 tvg-chno="6" ch-number="6" tvg-id="Boomerang.th" tvg-name="Boomerang" tvg-logo="https://media-mvtv8.imgix.net/channel/153_y_3V9s1SWHcnaNILkoXMmF8GER4ZTrxJvg.jpg" group-title="Digital TV", Boomerang
 #EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
 https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
