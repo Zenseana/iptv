@@ -14,10 +14,6 @@ https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
 #EXTINF:29,Channel 8
 https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="4" ch-number="4" tvg-id="ALTV.th" tvg-name="ALTV" tvg-logo="https://media-mvtv.imgix.net/channel/117_y_8JTfbUnwW9t2kuVh6ZpONEqv7MeBIsQR.png" group-title="Digital TV", ALTV
-#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
-https://load1.v2h-cdn.com/RE_Nginx_digital/digi_altv.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-chno="10" ch-number="10" tvg-id="TPTV.th" tvg-name="TPTV" tvg-logo="https://media-mvtv.imgix.net/channel/120_y_VSgE7P9GiDCxrhFWUALYpvzfM12cdqmH.png" group-title="Digital TV", TPTV
 #EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
 https://load1.v2h-cdn.com/digitaltv/tptv/playlist.m3u8
@@ -34,9 +30,9 @@ https://load1.v2h-cdn.com/digitaltv/amarin/playlist.m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
 https://load1.v2h-cdn.com/digitaltv/pptv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="6" ch-number="6" tvg-id="Boomerang.th" tvg-name="Boomerang" tvg-logo="https://media-mvtv8.imgix.net/channel/153_y_3V9s1SWHcnaNILkoXMmF8GER4ZTrxJvg.jpg" group-title="Digital TV", Boomerang
+#EXTINF:-1 tvg-chno="4" ch-number="4" tvg-id="ALTV.th" tvg-name="ALTV" tvg-logo="https://media-mvtv.imgix.net/channel/117_y_8JTfbUnwW9t2kuVh6ZpONEqv7MeBIsQR.png" group-title="Digital TV", ALTV
 #EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
-https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
+https://load1.v2h-cdn.com/RE_Nginx_digital/digi_altv.stream/playlist.m3u8
 
 #EXTINF:55,Boomerang Thai
 https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
@@ -51,10 +47,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 #EXTINF:25,BBC Earth
 #EXTVLCOPT:network-caching=1000
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/656535fc2c46f30008870fae/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26ce98-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=73fe2b3e-3885-4bd2-874c-cc5f2153e555&serverSideAds=false&checkedby:iptvcat.com
-
-#EXTINF:7200,BBC Arabic
-#EXTVLCOPT:network-caching=1000
-https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd?checkedby:iptvcat.com
 
 #EXTINF:50,Bloomberg TV US
 #EXTVLCOPT:network-caching=1000
@@ -143,18 +135,6 @@ https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:25,CBS Sports HQ
 #EXTVLCOPT:network-caching=1000
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d&checkedby:iptvcat.com
-
-#EXTINF:20,CBS Sports Network USA
-#EXTVLCOPT:network-caching=1000
-https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:24,FanDuel Sports Network
-#EXTVLCOPT:network-caching=1000
-https://fl3.moveonjoy.com/PAC_12/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:25,NBC Sports
-#EXTVLCOPT:network-caching=1000
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6549306c83595c000815a696/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5102-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=21e31328-eadb-4828-8608-0cc14ce24586&checkedby:iptvcat.com
 
 #EXTINF:60,Speed Sport 1 (1080p)
 #EXTVLCOPT:network-caching=1000
