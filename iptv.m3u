@@ -624,3 +624,47 @@ https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8?checkedby:ip
 #EXTINF:19,i24NEWS Hebrew
 #EXTVLCOPT:network-caching=1000
 https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/profile_0/chunklist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:100,ABC (544p)
+#EXTVLCOPT:network-caching=1000
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&checkedby:iptvcat.com
+
+#EXTINF:102,BS Asahi (544p)
+#EXTVLCOPT:network-caching=1000
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03&checkedby:iptvcat.com
+
+#EXTINF:100,BS Fuji TV (544p)
+#EXTVLCOPT:network-caching=1000
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06&checkedby:iptvcat.com
+
+#EXTINF:101,BS Nippon TV (544p)
+#EXTVLCOPT:network-caching=1000
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02&checkedby:iptvcat.com
+
+#EXTINF:100,BS Shochiku Tokyu (1080p)
+#EXTVLCOPT:network-caching=1000
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31&checkedby:iptvcat.com
+
+#EXTINF:100,BS TBS (544p)
+#EXTVLCOPT:network-caching=1000
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04&checkedby:iptvcat.com
+
+#EXTINF:101,CNNj (544p)
+#EXTVLCOPT:network-caching=1000
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16&checkedby:iptvcat.com
+
+#EXTINF:104,Fishing Vision (544p)
+#EXTVLCOPT:network-caching=1000
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25&checkedby:iptvcat.com
+
+#EXTINF:39,Fuji TV (540p)
+#EXTVLCOPT:network-caching=1000
+https://fujitv4.mov3.co/hls/fujitv.m3u8?checkedby:iptvcat.com
+
+#EXTINF:101,J Sports 1 (544p)
+#EXTVLCOPT:network-caching=1000
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&checkedby:iptvcat.com
+
+#EXTINF:102,Movie Plus (544p)
+#EXTVLCOPT:network-caching=1000
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14&checkedby:iptvcat.com
