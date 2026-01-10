@@ -668,3 +668,43 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&checkedb
 #EXTINF:102,Movie Plus (544p)
 #EXTVLCOPT:network-caching=1000
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14&checkedby:iptvcat.com
+
+#EXTINF:25,CBS News 24/7
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62441d6ded1827000763dcda/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aca4b2-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dccc0e7c-5b78-4526-90f9-401f7ca29bc9&checkedby:iptvcat.com
+
+#EXTINF:24,Euronews
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6639d7d4b18d700008da5316/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad40f3-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3e4b88ec-5984-4688-a30a-030ab8602e7c&checkedby:iptvcat.com
+
+#EXTINF:36,Grjngo Western Movies (720p)
+#EXTVLCOPT:network-caching=1000
+https://amogonetworx-grjngo-3-dk.samsung.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:25,Moviepilot TV mit Pluto TV
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a67d572fac9c000835eb3a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84addd32-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fcc33217-17d7-4dc5-9361-70dd91fef90e&checkedby:iptvcat.com
+
+#EXTINF:36,MyTime Movie Network Germany (1080p)
+#EXTVLCOPT:network-caching=1000
+https://appletree-mytimemoviegerman-rakuten.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:35,Rakuten TV Comedy Movies Germany (1080p)
+#EXTVLCOPT:network-caching=1000
+https://ecac08c9e2214375b907d6825aaf9a01.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6182/master.m3u8?checkedby:iptvcat.com
+
+#EXTINF:36,Rakuten TV Drama Movies Germany (1080p)
+#EXTVLCOPT:network-caching=1000
+https://968754c2483045c1a9a7f677caec35b6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6096/master.m3u8?checkedby:iptvcat.com
+
+#EXTINF:36,Rakuten TV Romance Movies Germany (1080p)
+#EXTVLCOPT:network-caching=1000
+https://romance-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6475/master.m3u8?checkedby:iptvcat.com
+
+#EXTINF:36,Rakuten TV Action Movies Germany (1080p)
+#EXTVLCOPT:network-caching=1000
+https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8?checkedby:iptvcat.com
+
+#EXTINF:112,3sat HD
+#EXTVLCOPT:network-caching=1000
+https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-dash/3sathd.mpd?checkedby:iptvcat.com
