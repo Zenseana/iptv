@@ -4,6 +4,22 @@
 # Last Update: 2025-10-27 09:32:00 UTC+07 ICT
 # =======================================================
 
+#EXTINF:24,BBC America East
+#EXTVLCOPT:network-caching=1000
+https://fl1.moveonjoy.com/BBC_AMERICA/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:25,BBC Earth
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/656535fc2c46f30008870fae/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26ce98-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=73fe2b3e-3885-4bd2-874c-cc5f2153e555&serverSideAds=false&checkedby:iptvcat.com
+
+#EXTINF:25,BBC News
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65d92a8c8b24c80008e285c0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9f1a48db-9022-43d1-bb25-ba665285192f&serverSideAds=false&checkedby:iptvcat.com
+
+#EXTINF:24,BBC News North America
+#EXTVLCOPT:network-caching=1000
+https://fl1.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8?checkedby:iptvcat.com
+
 #EXTINF:-1 tvg-id="Channel7.th" tvg-logo="https://i.imgur.com/IDMQ2xe.png" group-title="General",CH7 HD (1080p)
 https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
 
