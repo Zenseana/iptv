@@ -4,747 +4,510 @@
 # Last Update: 2025-10-27 09:32:00 UTC+07 ICT
 # =======================================================
 
-#EXTINF:24,BBC America East
-#EXTVLCOPT:network-caching=1000
-https://fl1.moveonjoy.com/BBC_AMERICA/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:25,BBC Earth
-#EXTVLCOPT:network-caching=1000
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/656535fc2c46f30008870fae/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26ce98-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=73fe2b3e-3885-4bd2-874c-cc5f2153e555&serverSideAds=false&checkedby:iptvcat.com
-
-#EXTINF:25,BBC News
-#EXTVLCOPT:network-caching=1000
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65d92a8c8b24c80008e285c0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9f1a48db-9022-43d1-bb25-ba665285192f&serverSideAds=false&checkedby:iptvcat.com
-
-#EXTINF:24,BBC News North America
-#EXTVLCOPT:network-caching=1000
-https://fl1.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-id="Channel7.th" tvg-logo="https://i.imgur.com/IDMQ2xe.png" group-title="General",CH7 HD (1080p)
-https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
-
-#EXTINF:-1 tvg-id="Boomerang.th" tvg-name="Boomerang Thai" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png",Boomerang Thai
-https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
-
-#EXTINF:-1 tvg-id="BOOMAnime.th" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/174_y_BdCq6Xr7og2SHhc3i5KbYxetAEf0nMly.png" group-title="Animation",BOOM ANIME
-https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
-
-#EXTINF:-1 tvg-id="ThaiChaiyo.th" tvg-logo="https://i.imgur.com/uOfb3y1.png" group-title="Music",Thai Chaiyo
-https://live-iptv.thaichaiyo.tv/tcy/live-720P.m3u8
-
-#EXTINF:-1 tvg-id="Channel8.th" group-title="Movies" tvg-logo="https://i.imgur.com/WypvBZ7.jpg",Channel 8
-https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="MONO29.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" group-title="Entertainment",MONO 29 (1080p)
-https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
-
-#EXTINF:-1 tvg-id="News1.th" tvg-logo="https://i.imgur.com/NNxzCPk.png" group-title="News",ASTV News 1
-http://news1.live14.com/stream/news1.m3u8
-
-#EXTINF:-1 tvg-id="TopNews.th" tvg-logo="https://i.imgur.com/tRFnV9M.png" group-title="News",Top News
-https://live.topnews.co.th/hls/topnews_a_720.m3u8
-
-#EXTINF:-1 tvg-id="SuwannabhumiChannel.th" tvg-logo="https://i.imgur.com/6AGKP0A.png" group-title="Undefined",Suwannabhumi Channel
-https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
-
-#EXTINF:-1 tvg-id="LooktungNetwork.th" tvg-logo="https://iptv36.my.to/logo/ipcam.png" group-title="Music",Looktung Network FM 98.5
-http://vip.login.in.th:1935/looktungnetwork1/looktungnetwork1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DLTV1.th" tvg-logo="https://i.imgur.com/nLzdGeX.png" group-title="Education",DLTV 1
-https://cdn-live.dltv.ac.th/dltv01.m3u8
-
-#EXTINF:-1 tvg-id="DLTV2.th" tvg-logo="https://i.imgur.com/lDBSTfE.png" group-title="Education",DLTV 2
-https://cdn-live.dltv.ac.th/dltv02.m3u8
-
-#EXTINF:-1 tvg-id="DLTV3.th" tvg-logo="https://i.imgur.com/wmrxerm.png" group-title="Education",DLTV 3
-https://cdn-live.dltv.ac.th/dltv03.m3u8
-
-#EXTINF:-1 tvg-id="DLTV4.th" tvg-logo="https://i.imgur.com/WkpoQhU.png" group-title="Education",DLTV 4
-https://cdn-live.dltv.ac.th/dltv04.m3u8
-
-#EXTINF:-1 tvg-id="DLTV5.th" tvg-logo="https://i.imgur.com/J1E89jX.png" group-title="Education",DLTV 5
-https://cdn-live.dltv.ac.th/dltv05.m3u8
-
-#EXTINF:-1 tvg-id="DLTV6.th" tvg-logo="https://i.imgur.com/qeIHWC0.png" group-title="Education",DLTV 6
-https://cdn-live.dltv.ac.th/dltv06.m3u8
-
-#EXTINF:-1 tvg-id="DLTV7.th" tvg-logo="https://i.imgur.com/OjYwMe3.png" group-title="Education",DLTV 7
-https://cdn-live.dltv.ac.th/dltv07.m3u8
-
-#EXTINF:-1 tvg-id="DLTV8.th" tvg-logo="https://i.imgur.com/xIwn5Ha.png" group-title="Education",DLTV 8
-https://cdn-live.dltv.ac.th/dltv08.m3u8
-
-#EXTINF:-1 tvg-id="DLTV9.th" tvg-logo="https://i.imgur.com/yPeSAry.png" group-title="Education",DLTV 9
-https://cdn-live.dltv.ac.th/dltv09.m3u8
-
-#EXTINF:-1 tvg-id="DLTV10.th" tvg-logo="https://i.imgur.com/TgN81Zr.png" group-title="Education",DLTV 10
-https://cdn-live.dltv.ac.th/dltv10.m3u8
-
-#EXTINF:-1 tvg-id="DLTV11.th" tvg-logo="https://i.imgur.com/hFk2b5s.png" group-title="Education",DLTV 11
-https://cdn-live.dltv.ac.th/dltv11.m3u8
-
-#EXTINF:-1 tvg-id="DLTV12.th" tvg-logo="https://i.imgur.com/ITt6lY7.png" group-title="Education",DLTV 12
-https://cdn-live.dltv.ac.th/dltv12.m3u8
-
-#EXTINF:-1 tvg-id="DLTV13.th" tvg-logo="https://i.imgur.com/asB5w3v.png" group-title="Education",DLTV 13
-https://cdn-live.dltv.ac.th/dltv13.m3u8
-
-#EXTINF:-1 tvg-id="DLTV14.th" tvg-logo="https://i.imgur.com/HOjZRNS.png" group-title="Education",DLTV 14
-https://cdn-live.dltv.ac.th/dltv14.m3u8
-
-#EXTINF:-1 tvg-id="DLTV15.th" tvg-logo="https://i.imgur.com/onJi2b6.png" group-title="Education",DLTV 15
-https://cdn-live.dltv.ac.th/dltv15.m3u8
-
-#EXTINF:-1 tvg-id="CCTV4Asia.cn@SD" tvg-logo="https://i.imgur.com/tWt4Wou.png" group-title="General",CCTV-4 Asia
-https://lb1-live-mv.v2h-cdn.com/hls/fefb/cctv4/cctv4.m3u8
-
-#EXTINF:-1 tvg-id="VOARFA.us" tvg-logo="https://i.imgur.com/rtRnlqN.png" group-title="News",VOA RFA (720p)
-https://voa-ingest.akamaized.net/hls/live/2033872/tvmc05/playlist.m3u8
-
-#EXTINF:-1 tvg-id="VoATVChinese.cn" tvg-logo="https://i.imgur.com/XCTZkoq.png" group-title="News",VOA Chinese
-https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ZarokTV.iq" tvg-logo="https://i.imgur.com/o0eevnb.png" group-title="Animation;Education;Family;Kids;Music",Zarok TV Sorani (720p)
-https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="BloombergTVAsiaLiveEvent.hk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV Asia Live Event (720p)
-https://bloomberg.com/media-manifest/streams/asia-event.m3u8
-
-#EXTINF:-1 tvg-id="ZIZTV.kn" tvg-logo="https://i.imgur.com/fB09i6X.png" group-title="General",ZIZ TV (720p)
-https://media.slactech.com:1936/ZIZDirect/ZIZDirect/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ABN.kr" tvg-logo="https://www.abn.co.kr/resources/images/logo.png" group-title="General",ABN TV (720p)
-https://vod2.abn.co.kr/IPHONE/abn.m3u8
-
-#EXTINF:-1 tvg-id="ArirangTV.kr" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="General;News",Arirang
-https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BTNTV.kr" tvg-logo="https://i.imgur.com/sOoS7RQ.png" group-title="Religious",BTN TV (1080p)
-https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
-
-#EXTINF:-1 tvg-id="EBSPlus1.kr" tvg-logo="https://i.imgur.com/aCeuhon.png" group-title="Education",EBS+ 1 (400p)
-https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
-
-#EXTINF:-1 tvg-id="EBSPlus2.kr" tvg-logo="https://i.imgur.com/pllIMGi.png" group-title="Education",EBS+ 2 (400p)
-https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FGTV.kr" tvg-logo="https://i.ibb.co/crxz0fd/yfgc-hearder-logo.png" group-title="Religious",FGTV (720p)
-https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="GoodTV.kr" tvg-logo="https://i.ibb.co/1v913gn/logo-goodtv.png" group-title="Religious",GoodTV (1080p)
-http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NHTV.kr" tvg-logo="https://i.imgur.com/DfECkgB.png" group-title="Undefined",NHTV (720p)
-http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
-
-#EXTINF:-1 tvg-id="OUN.kr" tvg-logo="https://i.imgur.com/7s6JtcU.png" group-title="Undefined",OUN (1080p)
-https://live.knou.ac.kr/knou1/live1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RUTCTV.kr" tvg-logo="https://i.ibb.co/yPDhKBp/rutc-logo.jpg" group-title="Religious",RUTC TV (720p)
-http://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TBSTV.kr" tvg-logo="https://i.imgur.com/iOnWS6V.png" group-title="Undefined",TBS Seoul (720p)
-https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AbalfadhlTV.ir" tvg-logo="https://i.ibb.co/cCmjqtQ/logo-2.png" group-title="Religious",Abalfadhl TV (720p)
-https://t.northtelecom.org/ABALFADHLTV.m3u8
-
-#EXTINF:-1 tvg-id="AlIraqiaNews.iq" tvg-logo="https://i.imgur.com/feQTXeZ.jpg" group-title="News",Al Iraqia News (720p)
-https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AlJazeeraMubasher.qa" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="News",Al Jazeera Mubasher (540p)
-https://live-hls-web-ajm.getaj.net/AJM/03.m3u8
-
-#EXTINF:-1 tvg-id="DijlahTV.iq" tvg-logo="https://i.imgur.com/kyzH3G5.png" group-title="News",Dijlah TV (1080p)
-https://ghaasiflu.online/Dijlah/index.m3u8
-
-#EXTINF:-1 tvg-id="DWArabic.de" tvg-logo="https://i.imgur.com/EfKe3ae.png" group-title="News",DW Arabic (1080p)
-https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
-
-#EXTINF:-1 tvg-id="AfghanNobelMovies.ca" tvg-logo="https://i.ibb.co/zfdbVSm/logo-1.png" group-title="Movies",Afghan Nobel Movies (720p)
-https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AfghanNobelTV.ca" tvg-logo="https://i.ibb.co/0Mb1ZQC/IMG-20230628-133738.jpg" group-title="General",Afghan Nobel TV (720p)
-https://live.relentlessinnovations.net:1936/afghannobeltv/afghannobeltv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AfghanistanInternational.uk" tvg-logo="https://i.imgur.com/r8MmFRX.png" group-title="News",Afghanistan International (720p)
-https://hls.afintl.com/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="RTANews.af" tvg-logo="https://rta.af/artmedia/2022/12/rta-logo-final-300x185.png" group-title="Undefined",RTA News (1080p)
-https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA2)/index.m3u8
-
-#EXTINF:-1 tvg-id="RTASport.af" tvg-logo="https://i.imgur.com/lEXrwos.jpg" group-title="Sports",RTA Sport (1080p)
-https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
-
-#EXTINF:-1 tvg-id="I24NewsArabic.il" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png" group-title="News",I24 News Arabic (720p)
-https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/playlist_dvr.m3u8
-
-#EXTINF:-1 tvg-id="ArabicaTV.lb" tvg-logo="https://i.imgur.com/sTOoDy1.png" group-title="Music",Arabica TV (720p)
-http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BBCArabic.uk" tvg-logo="https://i.imgur.com/ScyTG6P.png" group-title="News",BBC Arabic (720p)
-https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
-
-#EXTINF:-1 tvg-id="DubaiOne.ae" tvg-logo="https://i.imgur.com/Dj16oKL.png" group-title="General",Dubai One (1080p)
-https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="PersianaFamily.fr" tvg-logo="https://i.imgur.com/lMZsuWi.png" group-title="Movies",Persiana Family
-https://familyhls.persiana.live/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="PersianaHD.fr" tvg-logo="https://i.ibb.co/ZYDqMms/Persiana-HD.png" group-title="Movies",Persiana HD
-https://euhls.persiana.live/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="PersianaIranian.fr" tvg-logo="https://i.imgur.com/vqrrpBi.png" group-title="Movies",Persiana Iranian
-https://irhls.persiana.live/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="PersianaJunior.fr" tvg-logo="https://i.imgur.com/zeKHZYG.png" group-title="Animation",Persiana Junior
-https://junhls.persiana.live/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="PersianaKorea.fr" tvg-logo="https://i.imgur.com/si2ZnIA.png" group-title="Movies",Persiana Korea
-https://korhls.persiana.live/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="PersianaLatino.fr" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-latino-fr.png" group-title="General",Persiana Latino
-https://latinohls.persiana.live/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="PersianaMusic.fr" tvg-logo="https://i.imgur.com/SHxxi5I.png" group-title="Music",Persiana Music
-https://musichls.persiana.live/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="PersianaNostalgia.fr" tvg-logo="https://i.imgur.com/SWO9CKA.png" group-title="Classic;Music",Persiana Nostalgia
-https://noshls.persiana.live/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="PersianaRap.fr" tvg-logo="https://i.ibb.co/ThGc7d5/Persiana-Rap.png" group-title="Music",Persiana Rap
-https://raphls.persiana.live/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="PersianaSonnati.fr" tvg-logo="https://i.imgur.com/yqq5PlP.png" group-title="Music",Persiana Sonnati
-https://sonhls.persiana.live/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="4KurdHD.fr" tvg-logo="https://i.imgur.com/xy7W0wD.png" group-title="Undefined",Persiana 4Kurd
-https://4kuhls.persiana.live/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="CCTV4America.cn" tvg-logo="https://i.imgur.com/gBbLyqh.png" group-title="General",CCTV-4 America (1080p)
-https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-
-#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png" group-title="News",ABC News (720p)
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="News",Al Jazeera English
-https://live-hls-web-aje.getaj.net/AJE/03.m3u8
-
-#EXTINF:-1 tvg-id="ArirangUN.kr" tvg-logo="https://i.imgur.com/Jdy3WNm.png" group-title="News",Arirang TV UN (1080p)
-https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/chunklist_b656000_sleng.m3u8
-
-#EXTINF:-1 tvg-id="BVN.nl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BVN_logo.svg/512px-BVN_logo.svg.png" group-title="Undefined",BVN
-https://viamotionhsi.netplus.ch/live/eds/bvn/browser-HLS8/bvn.m3u8
-
-#EXTINF:-1 tvg-id="CGTN.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png" group-title="News",CGTN (1080p)
-https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
-
-#EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-logo="https://i.imgur.com/JHv0WxM.png" group-title="Documentary",CGTN Documentary (1080p)
-https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
-
-#EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="News",CGTN Espaรฑol (1080p)
-https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CGTNFrench.cn" tvg-logo="https://i.imgur.com/BwhledK.png" group-title="News",CGTN Franรงais (1080p)
-https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CGTNRussian.cn" tvg-logo="https://i.imgur.com/nDWkCmL.png" group-title="News",CGTN ะ ัััะบะธะน (1080p)
-https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CNAInternational.sg" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="News",CNA International (1080p)
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-
-#EXTINF:-1 tvg-id="DWEnglish.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW English (720p)
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-
-#EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews English (720p)
-https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="EuronewsFrench.fr@HD" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews French HD
-https://viamotionhsi.netplus.ch/live/eds/euronews/browser-HLS8/euronews.m3u8
-
-#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="News",FOX News Channel (720p)
-http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
-
-#EXTINF:-1 tvg-id="France24English.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="News",France 24 English (1080p)
-https://lb1-live-mv.v2h-cdn.com/hls/fecd/france24/france24.m3u8
-
-#EXTINF:-1 tvg-id="RedBullTV.at" tvg-logo="https://i.imgur.com/BcN8B3D.png" group-title="Sports",Red Bull TV (1080p)
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-
-#EXTINF:-1 tvg-id="RT.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="News",RT (1080p)
-https://rt-glb.rttv.com/dvr/rtnews/playlist_800Kb.m3u8
-
-#EXTINF:-1 tvg-id="RTDocumentaryEnglish.ru" tvg-logo="https://i.imgur.com/aeu5zIC.png" group-title="Documentary",RT Documentary English (1080p)
-https://rt-rtd.rttv.com/dvr/rtdoc/playlist_800Kb.m3u8
-
-#EXTINF:-1 tvg-id="SuperyachtTV.mc" tvg-logo="https://i.imgur.com/cgjgjE1.png" group-title="Lifestyle",Superyacht TV (1080p)
-https://sy.wns.live/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="TaiwanPlusTV.tw" tvg-logo="https://i.imgur.com/SfcZyqm.png" group-title="Undefined",Taiwan Plus TV (1080p)
-https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png" group-title="News",TRT World (1080p)
-https://tv-trtworld.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-id="WildEarth.uk" tvg-logo="https://i.imgur.com/Vhv5gjN.png" group-title="Undefined",WildEarth
-https://wildearth-xumo.amagi.tv/master.m3u8
-
-#EXTINF:-1 tvg-id="ZooMoo.sg" tvg-logo="https://i.imgur.com/ciTJrnl.png" group-title="Kids",Zoo Moo (1080p)
-https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Africa24.fr" tvg-logo="https://i.imgur.com/YWIJdai.png" group-title="News",Africa 24 (540p)
-https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
-
-#EXTINF:-1 tvg-id="RefletTV.ci" tvg-logo="https://i.imgur.com/EauXR22.png" group-title="Undefined",REFLET TV (1080p)
-https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/manifest.m3u8
-
-#EXTINF:-1 tvg-id="Tele7.es" tvg-logo="https://i.imgur.com/JcuV9ZE.png" group-title="Undefined" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",Tele 7 (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-https://ingest2-video.streaming-pro.com/tele7_ABR/stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BloombergTVAsia.hk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV Asia (720p)
-https://bloomberg.com/media-manifest/streams/asia.m3u8
-
-#EXTINF:-1 tvg-id="KNewsIndia.in" tvg-logo="https://i.imgur.com/LeBL7ML.png" group-title="News",K News India (1080p)
-https://knews.livebox.co.in/youtubehls/live.m3u8
-
-#EXTINF:-1 tvg-id="SanskarTV.in" tvg-logo="https://i.imgur.com/SDkiMvR.png" group-title="Culture;Religious",Sanskar TV (1080p)
-https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
-
-#EXTINF:-1 tvg-id="SanskarUK.in" tvg-logo="https://i.imgur.com/AU5vSPF.png" group-title="Undefined",Sanskar UK (1080p)
-https://d34z4embz0hjf6.cloudfront.net/out/v1/7ac2789ff9a544a49337d1ffc54ce61c/index.m3u8
-
-#EXTINF:-1 tvg-id="SanskarUSA.in" tvg-logo="https://i.imgur.com/5WBWruX.png" group-title="Undefined",Sanskar USA (1080p)
-https://d2netiedy8cz3x.cloudfront.net/out/v1/9bf6fa4ac8d6432cb98da13b121ba3c2/index.m3u8
-
-#EXTINF:-1 tvg-id="SanskarWebTV.in" tvg-logo="https://i.imgur.com/mu2B6hw.png" group-title="Undefined",Sanskar Web TV (1080p)
-https://deatfcv3xdvi3.cloudfront.net/out/v1/7a43dd2f64e34ec28da1b4bd6923251a/index.m3u8
-
-#EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Español (1080p)
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-
-#EXTINF:-1 tvg-chno="33" ch-number="33" tvg-id="3HD.th" tvg-name="3HD" tvg-logo="https://media-mvtv.imgix.net/channel/132_y_TFYiXWvrUf4s8tbIwJ29S3zMNeqghGmB.png" group-title="Digital TV", 3HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
-https://load1.v2h-cdn.com/digitaltv/ch3/playlist.m3u8
-
 #EXTINF:24,CH7 HD (1080p)
+#EXTVLCOPT:network-caching=1000
 https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
-
-#EXTINF:29,Channel 8
+#EXTINF:30,Channel 8
+#EXTVLCOPT:network-caching=1000
 https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist.m3u8
-
-#EXTINF:-1 tvg-chno="10" ch-number="10" tvg-id="TPTV.th" tvg-name="TPTV" tvg-logo="https://media-mvtv.imgix.net/channel/120_y_VSgE7P9GiDCxrhFWUALYpvzfM12cdqmH.png" group-title="Digital TV", TPTV
-#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
-https://load1.v2h-cdn.com/digitaltv/tptv/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="29" ch-number="29" tvg-id="MONO 29.th" tvg-name="MONO 29" tvg-logo="https://media-mvtv.imgix.net/channel/128_y_KUvdGmb2hpV41ni5rCk9OlFoXePMA80Q.png" group-title="Digital TV", MONO 29
-#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
-https://load1.v2h-cdn.com/digitaltv/mono/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="34" ch-number="34" tvg-id="Amarin.th" tvg-name="Amarin" tvg-logo="https://media-mvtv.imgix.net/channel/133_y_kLIyaJt3VoGD8sqrHnhKPjZUQ0RE6mu4.png" group-title="Digital TV", Amarin
-#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
-https://load1.v2h-cdn.com/digitaltv/amarin/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="36" ch-number="36" tvg-id="PPTV.th" tvg-name="PPTV" tvg-logo="https://media-mvtv.imgix.net/channel/135_y_7hl4KHdwBqS0VGNCskrDLyci538zY2Qx.png" group-title="Digital TV", PPTV
-#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
-https://load1.v2h-cdn.com/digitaltv/pptv/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="4" ch-number="4" tvg-id="ALTV.th" tvg-name="ALTV" tvg-logo="https://media-mvtv.imgix.net/channel/117_y_8JTfbUnwW9t2kuVh6ZpONEqv7MeBIsQR.png" group-title="Digital TV", ALTV
-#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
-https://load1.v2h-cdn.com/RE_Nginx_digital/digi_altv.stream/playlist.m3u8
-
-#EXTINF:55,Boomerang Thai
-https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
-
-#EXTINF:21,BOOM ANIME
-https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
-
-#EXTINF:25,BBC News
+#EXTINF:120,MONO 29 (1080p)
 #EXTVLCOPT:network-caching=1000
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65d92a8c8b24c80008e285c0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9f1a48db-9022-43d1-bb25-ba665285192f&serverSideAds=false&checkedby:iptvcat.com
-
-#EXTINF:25,BBC Earth
+https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
+#EXTINF:63,ASTV News 1
 #EXTVLCOPT:network-caching=1000
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/656535fc2c46f30008870fae/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26ce98-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=73fe2b3e-3885-4bd2-874c-cc5f2153e555&serverSideAds=false&checkedby:iptvcat.com
-
+http://news1.live14.com/stream/news1.m3u8
+#EXTINF:66,Top News
+#EXTVLCOPT:network-caching=1000
+https://live.topnews.co.th/hls/topnews_a_720.m3u8
+#EXTINF:80,Suwannabhumi Channel
+#EXTVLCOPT:network-caching=1000
+https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
+#EXTINF:31,Looktung Network FM 98.5
+#EXTVLCOPT:network-caching=1000
+http://vip.login.in.th:1935/looktungnetwork1/looktungnetwork1/playlist.m3u8
+#EXTINF:28,DLTV 1
+#EXTVLCOPT:network-caching=1000
+https://cdn-live.dltv.ac.th/dltv01.m3u8
+#EXTINF:0,DLTV 2
+#EXTVLCOPT:network-caching=1000
+https://cdn-live.dltv.ac.th/dltv02.m3u8
+#EXTINF:0,DLTV 3
+#EXTVLCOPT:network-caching=1000
+https://cdn-live.dltv.ac.th/dltv03.m3u8
+#EXTINF:0,DLTV 4
+#EXTVLCOPT:network-caching=1000
+https://cdn-live.dltv.ac.th/dltv04.m3u8
+#EXTINF:31,DLTV 5
+#EXTVLCOPT:network-caching=1000
+https://cdn-live.dltv.ac.th/dltv05.m3u8
+#EXTINF:28,DLTV 6
+#EXTVLCOPT:network-caching=1000
+https://cdn-live.dltv.ac.th/dltv06.m3u8
+#EXTINF:28,DLTV 7
+#EXTVLCOPT:network-caching=1000
+https://cdn-live.dltv.ac.th/dltv07.m3u8
+#EXTINF:31,DLTV 8
+#EXTVLCOPT:network-caching=1000
+https://cdn-live.dltv.ac.th/dltv08.m3u8
+#EXTINF:28,DLTV 9
+#EXTVLCOPT:network-caching=1000
+https://cdn-live.dltv.ac.th/dltv09.m3u8
+#EXTINF:31,DLTV 10
+#EXTVLCOPT:network-caching=1000
+https://cdn-live.dltv.ac.th/dltv10.m3u8
+#EXTINF:0,DLTV 11
+#EXTVLCOPT:network-caching=1000
+https://cdn-live.dltv.ac.th/dltv11.m3u8
+#EXTINF:0,DLTV 12
+#EXTVLCOPT:network-caching=1000
+https://cdn-live.dltv.ac.th/dltv12.m3u8
+#EXTINF:0,DLTV 13
+#EXTVLCOPT:network-caching=1000
+https://cdn-live.dltv.ac.th/dltv13.m3u8
+#EXTINF:0,DLTV 14
+#EXTVLCOPT:network-caching=1000
+https://cdn-live.dltv.ac.th/dltv14.m3u8
+#EXTINF:0,DLTV 15
+#EXTVLCOPT:network-caching=1000
+https://cdn-live.dltv.ac.th/dltv15.m3u8
+#EXTINF:25,Zarok TV Sorani (720p)
+#EXTVLCOPT:network-caching=1000
+https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
+#EXTINF:50,Bloomberg TV Asia Live Event (720p)
+#EXTVLCOPT:network-caching=1000
+https://bloomberg.com/media-manifest/streams/asia-event.m3u8
+#EXTINF:24,ZIZ TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://media.slactech.com:1936/ZIZDirect/ZIZDirect/playlist.m3u8
+#EXTINF:10,ABN TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://vod2.abn.co.kr/IPHONE/abn.m3u8
+#EXTINF:30,Arirang
+#EXTVLCOPT:network-caching=1000
+https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8
+#EXTINF:30,BTN TV (1080p)
+#EXTVLCOPT:network-caching=1000
+https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+#EXTINF:40,EBS+ 1 (400p)
+#EXTVLCOPT:network-caching=1000
+https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+#EXTINF:40,EBS+ 2 (400p)
+#EXTVLCOPT:network-caching=1000
+https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+#EXTINF:24,FGTV (720p)
+#EXTVLCOPT:network-caching=1000
+https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8
+#EXTINF:30,GoodTV (1080p)
+#EXTVLCOPT:network-caching=1000
+http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
+#EXTINF:8,OUN (1080p)
+#EXTVLCOPT:network-caching=1000
+https://live.knou.ac.kr/knou1/live1/playlist.m3u8
+#EXTINF:30,RUTC TV (720p)
+#EXTVLCOPT:network-caching=1000
+http://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playlist.m3u8
+#EXTINF:20,TBS Seoul (720p)
+#EXTVLCOPT:network-caching=1000
+https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+#EXTINF:60,Al Jazeera Mubasher (540p)
+#EXTVLCOPT:network-caching=1000
+https://live-hls-web-ajm.getaj.net/AJM/03.m3u8
+#EXTINF:28,Dijlah TV (1080p)
+#EXTVLCOPT:network-caching=1000
+https://ghaasiflu.online/Dijlah/index.m3u8
+#EXTINF:1800,DW Arabic (1080p)
+#EXTVLCOPT:network-caching=1000
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+#EXTINF:100,Afghanistan International (720p)
+#EXTVLCOPT:network-caching=1000
+https://hls.afintl.com/hls/stream.m3u8
+#EXTINF:78,Arabica TV (720p)
+#EXTVLCOPT:network-caching=1000
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
+#EXTINF:7200,BBC Arabic (720p)
+#EXTVLCOPT:network-caching=1000
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
+#EXTINF:100,Persiana Family
+#EXTVLCOPT:network-caching=1000
+https://familyhls.persiana.live/hls/stream.m3u8
+#EXTINF:100,Persiana HD
+#EXTVLCOPT:network-caching=1000
+https://euhls.persiana.live/hls/stream.m3u8
+#EXTINF:100,Persiana Iranian
+#EXTVLCOPT:network-caching=1000
+https://irhls.persiana.live/hls/stream.m3u8
+#EXTINF:100,Persiana Junior
+#EXTVLCOPT:network-caching=1000
+https://junhls.persiana.live/hls/stream.m3u8
+#EXTINF:100,Persiana Korea
+#EXTVLCOPT:network-caching=1000
+https://korhls.persiana.live/hls/stream.m3u8
+#EXTINF:100,Persiana Music
+#EXTVLCOPT:network-caching=1000
+https://musichls.persiana.live/hls/stream.m3u8
+#EXTINF:100,Persiana Nostalgia
+#EXTVLCOPT:network-caching=1000
+https://noshls.persiana.live/hls/stream.m3u8
+#EXTINF:100,Persiana Sonnati
+#EXTVLCOPT:network-caching=1000
+https://sonhls.persiana.live/hls/stream.m3u8
+#EXTINF:100,Persiana 4Kurd
+#EXTVLCOPT:network-caching=1000
+https://4kuhls.persiana.live/hls/stream.m3u8
+#EXTINF:56,CCTV-4N
+#EXTVLCOPT:network-caching=1000
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+#EXTINF:6,Arirang TV UN (1080p)
+#EXTVLCOPT:network-caching=1000
+https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/chunklist_b656000_sleng.m3u8
+#EXTINF:65,BVN
+#EXTVLCOPT:network-caching=1000
+https://viamotionhsi.netplus.ch/live/eds/bvn/browser-HLS8/bvn.m3u8
+#EXTINF:60,CGTN (1080p)
+#EXTVLCOPT:network-caching=1000
+https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
+#EXTINF:60,CGTN Documentary (1080p)
+#EXTVLCOPT:network-caching=1000
+https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
+#EXTINF:18,CGTN Espa#EXTVLCOPT:network-caching=1000
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+#EXTINF:18,CGTN Fran#EXTVLCOPT:network-caching=1000
+https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
+#EXTINF:18,CGTN #EXTVLCOPT:network-caching=1000
+https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
+#EXTINF:40,CNA International (1080p)
+#EXTVLCOPT:network-caching=1000
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:1800,DW English (720p)
+#EXTVLCOPT:network-caching=1000
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:96,Euronews English (720p)
+#EXTVLCOPT:network-caching=1000
+https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
+#EXTINF:59,Euronews French HD
+#EXTVLCOPT:network-caching=1000
+https://viamotionhsi.netplus.ch/live/eds/euronews/browser-HLS8/euronews.m3u8
+#EXTINF:60,FOX News Channel (720p)
+#EXTVLCOPT:network-caching=1000
+http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
+#EXTINF:180,Red Bull TV (1080p)
+#EXTVLCOPT:network-caching=1000
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:43200,RT (1080p)
+#EXTVLCOPT:network-caching=1000
+https://rt-glb.rttv.com/dvr/rtnews/playlist_800Kb.m3u8
+#EXTINF:43200,RT Documentary English (1080p)
+#EXTVLCOPT:network-caching=1000
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist_800Kb.m3u8
+#EXTINF:100,Superyacht TV (1080p)
+#EXTVLCOPT:network-caching=1000
+https://sy.wns.live/hls/stream.m3u8
+#EXTINF:60,TRT World (1080p)
+#EXTVLCOPT:network-caching=1000
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:54,WildEarth
+#EXTVLCOPT:network-caching=1000
+https://wildearth-xumo.amagi.tv/master.m3u8
+#EXTINF:60,Zoo Moo (1080p)
+#EXTVLCOPT:network-caching=1000
+https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+#EXTINF:15,Africa 24 (540p)
+#EXTVLCOPT:network-caching=1000
+https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
+#EXTINF:12,REFLET-TV
+#EXTVLCOPT:network-caching=1000
+https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/manifest.m3u8
+#EXTINF:24, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" - Tele 7 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+#EXTVLCOPT:network-caching=1000
+https://ingest2-video.streaming-pro.com/tele7_ABR/stream/playlist.m3u8
+#EXTINF:48,Bloomberg TV Asia (720p)
+#EXTVLCOPT:network-caching=1000
+https://bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:60,Sanskar TV (1080p)
+#EXTVLCOPT:network-caching=1000
+https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
+#EXTINF:60,Sanskar UK (1080p)
+#EXTVLCOPT:network-caching=1000
+https://d34z4embz0hjf6.cloudfront.net/out/v1/7ac2789ff9a544a49337d1ffc54ce61c/index.m3u8
+#EXTINF:60,Sanskar USA (1080p)
+#EXTVLCOPT:network-caching=1000
+https://d2netiedy8cz3x.cloudfront.net/out/v1/9bf6fa4ac8d6432cb98da13b121ba3c2/index.m3u8
+#EXTINF:60,Sanskar Web TV (1080p)
+#EXTVLCOPT:network-caching=1000
+https://deatfcv3xdvi3.cloudfront.net/out/v1/7a43dd2f64e34ec28da1b4bd6923251a/index.m3u8
+#EXTINF:1800,DW Espa ol (1080p)
+#EXTVLCOPT:network-caching=1000
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:24,CH7 HD (1080p)
+#EXTVLCOPT:network-caching=1000
+https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
+#EXTINF:26,Channel 8
+#EXTVLCOPT:network-caching=1000
+https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist.m3u8
 #EXTINF:50,Bloomberg TV US
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 https://bloomberg.com/media-manifest/streams/us.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-chno="105" ch-number="105" tvg-id="CNA.th" tvg-name="CNA" tvg-logo="https://media-mvtv.imgix.net/channel/152_y_zynZw6RpjUoxHbGMh28eCKk9BlqIXJAa.png" group-title="Digital TV", CNA
+#EXTINF:40, CNA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
 https://d2e1asnsl7br7b.cloudfront.net/4e4e0baa3d7b4c129b4f5655219e083d/index.m3u8
-
-#EXTINF:597,CNN USA
+#EXTINF:594,CNN USA
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8?checkedby:iptvcat.com
-
 #EXTINF:30,CNA (1080p)
 #EXTVLCOPT:network-caching=1000
-https://live1.mediadesk.al/cnatvlive.m3u8?checkedby:iptvcat.com
-
-#EXTINF:68,Fox News Channel (720p)
 #EXTVLCOPT:network-caching=1000
-https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8?checkedby:iptvcat.com
-
+https://live1.mediadesk.al/cnatvlive.m3u8?checkedby:iptvcat.com
 #EXTINF:60,News 24
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-chno="104" ch-number="104" tvg-id="France 24.th" tvg-name="France 24" tvg-logo="https://media-mvtv.imgix.net/channel/151_y_YrFS8xk32BmplLV4NcHgdXRsuU7TvWZ5.png" group-title="Digital TV", France 24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/fecd/france24/france24.m3u8
-
 #EXTINF:36,Rakuten TV Action Movies UK (1080p)
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8?checkedby:iptvcat.com
-
 #EXTINF:60,Action Hollywood Movies
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:180,30A TV Classic Movies
+#EXTINF:179,30A TV Classic Movies
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8?checkedby:iptvcat.com
-
-#EXTINF:25,Pluto TV Classic Movies (England) (720p)
+#EXTINF:93,FX Movie Channel (720p)
 #EXTVLCOPT:network-caching=1000
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d134a74ca91eedee1630faa/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d134a74ca91eedee1630faa&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=903&terminate=false&userId=&checkedby:iptvcat.com
-
-#EXTINF:78,FX Movie Channel (720p)
 #EXTVLCOPT:network-caching=1000
 https://tvpass.org/live/FXMovieChannel/hd?checkedby:iptvcat.com
-
-#EXTINF:25,Hallmark Movies & More
+#EXTINF:104,Lifetime Movies East (720p)
 #EXTVLCOPT:network-caching=1000
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/628e685ba3811100070551a8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291886-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=58dbb587-5d0d-412d-ae10-107ee9caac5a&serverSideAds=false&checkedby:iptvcat.com
-
-#EXTINF:51,Lifetime Movies East (720p)
 #EXTVLCOPT:network-caching=1000
 https://tvpass.org/live/LifetimeMoviesEast/hd?checkedby:iptvcat.com
-
 #EXTINF:60,World of Freesports (1080p)
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-chno="7" ch-number="7" tvg-id="T SPORT.th" tvg-name="T SPORT" tvg-logo="https://media-mvtv.imgix.net/channel/119_y_OhjxHr9fqS2i0NJvPUlcL85mn6e4FoIu.png" group-title="Digital TV", T SPORT
-#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
-https://load1.v2h-cdn.com/digitaltv/tsport/playlist.m3u8
-
-#EXTINF:44,Fox Sports 2 (720p)
+#EXTINF:94,Fox Sports 2 (720p)
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://tvpass.org/live/FoxSports2/hd?checkedby:iptvcat.com
-
 #EXTINF:180,Red Bull TV 1
 #EXTVLCOPT:network-caching=1000
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?checkedby:iptvcat.com
-
-#EXTINF:60,Red Bull TV 2
 #EXTVLCOPT:network-caching=1000
-https://shls-live-enc.edgenextcdn.net/out/v1/ad35123d4ad041068bce26ae67ee3180/index.m3u8?checkedby:iptvcat.com
-
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?checkedby:iptvcat.com
 #EXTINF:180,Red Bull TV - Red Bull TV HD,Red Bull TV SD
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?checkedby:iptvcat.com
-
 #EXTINF:60,BeIN Sports XTRA (1080p)
 #EXTVLCOPT:network-caching=1000
-https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:25,CBS Sports HQ
 #EXTVLCOPT:network-caching=1000
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d&checkedby:iptvcat.com
-
+https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:60,Speed Sport 1 (1080p)
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 https://linear-599.frequency.stream/dist/stirr/599/hls/master/playlist.m3u8?checkedby:iptvcat.com
-
 #EXTINF:60,Trace Sports Stars (1080p)
 #EXTVLCOPT:network-caching=1000
-https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:25,Service
 #EXTVLCOPT:network-caching=1000
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c298db4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=24f8b91f-0237-469f-a450-a4f94a1f5b92&serverSideAds=false&checkedby:iptvcat.com
-
+https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:30,CMC-USA (California Music Channel) (720p)
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:171,30A Music Channel
+#EXTINF:167,30A Music Channel
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8?checkedby:iptvcat.com
-
 #EXTINF:30,3ABN Praise Him Music Network
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:23,Balleballe TV HD
+#EXTINF:20,Balleballe TV HD
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://mcncdndigital.com/balleballetv/index.m3u8?checkedby:iptvcat.com
-
 #EXTINF:18,HTM
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8?checkedby:iptvcat.com
-
 #EXTINF:60,10 Bold Adelaide (1080p)
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:26,Folk Klub (720p)
+#EXTINF:31,Folk Klub (720p)
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://tv1.intv.mk:1935/live2/folkklub/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0,Brodilo TV - Brodilo.TV,RU | Brodilo TV
-#EXTVLCOPT:network-caching=1000
-http://brodilo.tv/channel.php?checkedby:iptvcat.com
-
 #EXTINF:20,RBK - RU | RBK
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://e3.online.video.rbc.ru/online2/rbctv_576p/index.m3u8?checkedby:iptvcat.com
-
 #EXTINF:36,C86 
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 https://sitv.ru/hls/s861024.m3u8?checkedby:iptvcat.com
-
 #EXTINF:20,RBK - RU | RBK
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://e3.online.video.rbc.ru/online2/rbctv_576p/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:20,Sochi Live HD
+#EXTINF:22,Sochi Live HD
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8?checkedby:iptvcat.com
-
 #EXTINF:24,APHC24
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://serv25.vintera.tv:8081/test/aris/playlist.m3u8?checkedby:iptvcat.com
-
 #EXTINF:24,AaHg24
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 https://streaming.astrakhan.ru/astrakhan24/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
-
 #EXTINF:40,VETTA
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8?checkedby:iptvcat.com
-
 #EXTINF:36,MI3
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8?checkedby:iptvcat.com
-
 #EXTINF:15,MatypTB
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8?checkedby:iptvcat.com
-
 #EXTINF:15,noutoe
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:40,HTM
-#EXTVLCOPT:network-caching=1000
-http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0,Brodilo TV - Brodilo.TV,RU | Brodilo TV
-#EXTVLCOPT:network-caching=1000
-http://brodilo.tv/channel.php?checkedby:iptvcat.com
-
 #EXTINF:40,MTB
+#EXTVLCOPT:network-caching=1000
 http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:40,C1
+#EXTINF:63,TB
 #EXTVLCOPT:network-caching=1000
-http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8?checkedby:iptvcat.com
-
-#EXTINF:15,DXOtb
-http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0,TB
 http://hithd.camsh.orsk.ru/hls/hit.m3u8?checkedby:iptvcat.com
-
-#EXTINF:25,CBS News 24/7
-#EXTVLCOPT:network-caching=1000
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6231ec93779a9d00079ba8e2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0689f3-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fed25d80-74f3-47d1-a87b-51755ac6ef8a&checkedby:iptvcat.com
-
 #EXTINF:14400,CNews (1080p) [Geo-blocked]
 #EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/CNews.m3u8?checkedby:iptvcat.com
-
-#EXTINF:25,Euronews
 #EXTVLCOPT:network-caching=1000
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60d35bcaf1ff4a00078af0a6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0614c6-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=90bc590c-c00a-4ff4-b9e2-ad20ea686992&checkedby:iptvcat.com
-
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/CNews.m3u8?checkedby:iptvcat.com
 #EXTINF:24,20 Minutes TV (1080p)
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 https://live-20minutestv.digiteka.com/1961167769/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:100,4Afghanistan
+#EXTINF:15,Canal 32 (1080p)
 #EXTVLCOPT:network-caching=1000
-https://4afghls.persiana.live/hls/stream.m3u8?checkedby:iptvcat.com
-
-#EXTINF:100,4Sport
-#EXTVLCOPT:network-caching=1000
-https://pepsi.abntv.live/hls/4spstream.m3u8?checkedby:iptvcat.com
-
-#EXTINF:25,Avatar
-#EXTVLCOPT:network-caching=1000
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60b4c17a81e29300071d3a39/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e05edb7-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=640a4092-5016-4d01-bcbf-d66e4f7aa21d&checkedby:iptvcat.com
-
-#EXTINF:25,Service
-#EXTVLCOPT:network-caching=1000
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60d35a74c63c3c0008df6a90/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0614c5-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=eff52b4b-c804-4f5a-968a-d48a2898e184&checkedby:iptvcat.com
-
-#EXTINF:14,Canal 32 (1080p)
 #EXTVLCOPT:network-caching=1000
 https://event.vedge.infomaniak.com/livecast/ik:canal32_4/manifest.m3u8?checkedby:iptvcat.com
-
-#EXTINF:59,France 2 HD (720p)
+#EXTINF:60,France 2 HD (720p)
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-HLS8/france2hd.m3u8?checkedby:iptvcat.com
-
-#EXTINF:59,ARD-alpha HD
+#EXTINF:65,ARD-alpha HD
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://viamotionhsi.netplus.ch/live/eds/bralpha/browser-HLS8/bralpha.m3u8?checkedby:iptvcat.com
-
-#EXTINF:26,CBS News 24/7
-#EXTVLCOPT:network-caching=1000
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62441d6ded1827000763dcda/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aca4b2-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dccc0e7c-5b78-4526-90f9-401f7ca29bc9&checkedby:iptvcat.com
-
 #EXTINF:36,Grjngo Western Movies (720p)
 #EXTVLCOPT:network-caching=1000
-https://amogonetworx-grjngo-3-dk.samsung.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:25,Moviepilot TV mit Pluto TV
 #EXTVLCOPT:network-caching=1000
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a67d572fac9c000835eb3a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84addd32-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fcc33217-17d7-4dc5-9361-70dd91fef90e&checkedby:iptvcat.com
-
+https://amogonetworx-grjngo-3-dk.samsung.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:36,MyTime Movie Network Germany (1080p)
 #EXTVLCOPT:network-caching=1000
-https://appletree-mytimemoviegerman-rakuten.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:25,Pluto TV Movies
 #EXTVLCOPT:network-caching=1000
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c5c3b948002db3c3e0b262e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aec791-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5500aa67-c527-4db6-868b-d37341c34286&checkedby:iptvcat.com
-
+https://appletree-mytimemoviegerman-rakuten.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:60,World of Freesports (1080p)
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8?checkedby:iptvcat.com
-
 #EXTINF:60,Hidabroot
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:30,Kan Kids (720p)
-#EXTVLCOPT:network-caching=1000
-https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8?checkedby:iptvcat.com
-
-#EXTINF:19,i24NEWS Hebrew
-#EXTVLCOPT:network-caching=1000
-https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/profile_0/chunklist.m3u8?checkedby:iptvcat.com
-
 #EXTINF:100,ABC (544p)
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&checkedby:iptvcat.com
-
 #EXTINF:102,BS Asahi (544p)
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03&checkedby:iptvcat.com
-
-#EXTINF:100,BS Fuji TV (544p)
+#EXTINF:102,BS Fuji TV (544p)
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06&checkedby:iptvcat.com
-
-#EXTINF:101,BS Nippon TV (544p)
+#EXTINF:104,BS Nippon TV (544p)
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02&checkedby:iptvcat.com
-
 #EXTINF:100,BS Shochiku Tokyu (1080p)
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31&checkedby:iptvcat.com
-
-#EXTINF:100,BS TBS (544p)
+#EXTINF:101,BS TBS (544p)
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04&checkedby:iptvcat.com
-
 #EXTINF:101,CNNj (544p)
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16&checkedby:iptvcat.com
-
 #EXTINF:104,Fishing Vision (544p)
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25&checkedby:iptvcat.com
-
-#EXTINF:39,Fuji TV (540p)
+#EXTINF:30,Fuji TV (540p)
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://fujitv4.mov3.co/hls/fujitv.m3u8?checkedby:iptvcat.com
-
-#EXTINF:101,J Sports 1 (544p)
+#EXTINF:100,J Sports 1 (544p)
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&checkedby:iptvcat.com
-
-#EXTINF:102,Movie Plus (544p)
+#EXTINF:100,Movie Plus (544p)
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14&checkedby:iptvcat.com
-
-#EXTINF:25,CBS News 24/7
+#EXTINF:30,Grjngo Western Movies (720p)
 #EXTVLCOPT:network-caching=1000
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62441d6ded1827000763dcda/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aca4b2-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dccc0e7c-5b78-4526-90f9-401f7ca29bc9&checkedby:iptvcat.com
-
-#EXTINF:24,Euronews
-#EXTVLCOPT:network-caching=1000
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6639d7d4b18d700008da5316/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad40f3-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3e4b88ec-5984-4688-a30a-030ab8602e7c&checkedby:iptvcat.com
-
-#EXTINF:36,Grjngo Western Movies (720p)
 #EXTVLCOPT:network-caching=1000
 https://amogonetworx-grjngo-3-dk.samsung.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:25,Moviepilot TV mit Pluto TV
-#EXTVLCOPT:network-caching=1000
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a67d572fac9c000835eb3a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84addd32-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fcc33217-17d7-4dc5-9361-70dd91fef90e&checkedby:iptvcat.com
-
 #EXTINF:36,MyTime Movie Network Germany (1080p)
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 https://appletree-mytimemoviegerman-rakuten.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:35,Rakuten TV Comedy Movies Germany (1080p)
+#EXTINF:36,Rakuten TV Comedy Movies Germany (1080p)
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://ecac08c9e2214375b907d6825aaf9a01.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6182/master.m3u8?checkedby:iptvcat.com
-
 #EXTINF:36,Rakuten TV Drama Movies Germany (1080p)
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 https://968754c2483045c1a9a7f677caec35b6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6096/master.m3u8?checkedby:iptvcat.com
-
 #EXTINF:36,Rakuten TV Romance Movies Germany (1080p)
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 https://romance-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6475/master.m3u8?checkedby:iptvcat.com
-
 #EXTINF:36,Rakuten TV Action Movies Germany (1080p)
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8?checkedby:iptvcat.com
-
-#EXTINF:112,3sat HD
+#EXTINF:67,3sat HD
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-dash/3sathd.mpd?checkedby:iptvcat.com
-
 #EXTINF:24,20 Minutes TV (1080p)
 #EXTVLCOPT:network-caching=1000
-https://live-20minutestv.digiteka.com/1961167769/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:100,4Sport
 #EXTVLCOPT:network-caching=1000
-https://pepsi.abntv.live/hls/4spstream.m3u8?checkedby:iptvcat.com
-
-#EXTINF:69,6ter
+https://live-20minutestv.digiteka.com/1961167769/index.m3u8?checkedby:iptvcat.com
+#EXTINF:68,6ter
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://viamotionhsi.netplus.ch/live/eds/6ter/browser-dash/6ter.mpd?checkedby:iptvcat.com
-
 #EXTINF:30,A2i TV
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 https://stream.sen-gt.com/A2itv/myStream/chunklist_w1124459956.m3u8?checkedby:iptvcat.com
-
-#EXTINF:72,AB1
+#EXTINF:78,AB1
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://viamotionhsi.netplus.ch/live/eds/ab1/browser-dash/ab1.mpd?checkedby:iptvcat.com
-
-#EXTINF:25,Adjug vendu !
-#EXTVLCOPT:network-caching=1000
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64bab8ba5dc1660008969b5a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e06ff28-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5c583725-776e-440c-a02f-17dca14750d3&checkedby:iptvcat.com
