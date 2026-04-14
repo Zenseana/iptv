@@ -125,7 +125,7 @@ https://hls.afintl.com/hls/stream.m3u8
 #EXTINF:78,Arabica TV (720p)
 #EXTVLCOPT:network-caching=1000
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
-#EXTINF:7200,BBC Arabic (720p)
+#EXTINF:2 tvg-chno="2",BBC Arabic (720p)
 #EXTVLCOPT:network-caching=1000
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
 #EXTINF:100,Persiana Family
