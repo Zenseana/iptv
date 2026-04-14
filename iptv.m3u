@@ -512,6 +512,6 @@ https://stream.sen-gt.com/A2itv/myStream/chunklist_w1124459956.m3u8?checkedby:ip
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://viamotionhsi.netplus.ch/live/eds/ab1/browser-dash/ab1.mpd?checkedby:iptvcat.com
-#EXTINF:594,CNN USA
+#EXTINF:-1 tvg-chno="1",CNN USA
 #EXTVLCOPT:network-caching=1000
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8?checkedby:iptvcat.com
